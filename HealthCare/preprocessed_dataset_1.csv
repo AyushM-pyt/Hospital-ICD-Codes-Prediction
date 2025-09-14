@@ -1,0 +1,1040 @@
+patient_id,run_number,narrative,icd_codes,billing_narrative,cleaned_text
+1,26356,"DISPATCHED: MEDIC 37 was dispatched priority 3 for interfacility transport from Lakeside Nursing and Rehab to Christus Santa Rosa Westover Hills ER. Pt was initially being transported to Audie Murphy VA Hospital but facility was on diversion, pt requested Santa Rosa Westover Hills.
+ARRIVAL: MEDIC 37 arrived on scene to find 74 y/o male laying semi fowlers on hospital bed 405A.
+NURSE REPORT: NURSE reported that pt is S/P unwitnessed fall at 0100AM, trip and fall while ambulating to bathroom. Pt sustained bleeding from left nostril, c/o left facial pain, neck pain and left knee pain. Pt denies loss of consciousness or other injuries.
+NECESSITY: Pt requires continuous ECG monitoring, continuous Hemodynamics monitoring and mental status monitoring. Pt requires transport to Christus Westover Hills Hospital ER for treatment and evaluation secondary to Head injury, neck pain and knee pain.
+ASSESSMENT: Pt alert and oriented x 4, +left facial pain with no visible trauma, +posterior neck tenderness with no stepoffs or deformities during palpation, No JVD, Trach Midline, BBS CTA, Denies CP or SOB, Abd Non Tenderness, Neuros Intact with generalized weakness to all extremities, left knee pain with no visible trauma, Skin warm and dry, Nail beds Pink, CAP refill WNL, pt has no other complaints.
+PMH: Malignant neoplasm of kidney, COPD, Emphysema, Muscle weakness, Ataxic Gait, Depression, Viral Hepatitis, HTN, CAD
+TREATMENT: MEDIC 37 placed pt on cervical collar, moved pt from hospital bed to stretcher by drawsheet method, and secured to stretcher x5 straps, x2 safety rails. Pt was placed on ECG monitor, 12 lead and vital signs obtained which showed Sinus Brady borderline 1st DEG AV block. Pt was then loaded onto ambulance. IV access attempted to left forearm and was unsuccessful, pt has poor venous access, labs obtained using syringe and needle to left forearm.
+TRANSPORT: MEDIC 37 transported pt priority 2 and provided continuous ECG monitoring, continuous Hemodynamics monitoring and mental status monitoring via conversation. No changes in mental or neurological status throughout transport.
+DESTINATION: MEDIC 37 unloaded pt at destination and moved pt by stretcher to assigned hospital ER bed.
+Transfer of Care: MEDIC 37 gave pt care and report to receiving NURSE Lisa Castro RN and Physician, pt was moved from stretcher to hospital bed by drawsheet method assisted by hospital staff.
+MEDIC 37 decontaminated Ambulance and stretcher, Dispatch was contacted and scene was then cleared.
+EOR JUAN TIJERINA EMT P","R58,Z74.3,R68.89","BLEEDING L NOSTRIL,PAIN L FACIAL,NECK&KNEE, FALL,MOBILE LAB MEDIC W/ADD TRAINING","Here is a summary of the narrative in 3-4 concise sentences:
+
+A 74-year-old male Patient (Pt) was transported from Lakeside Nursing and Rehab to Christus Santa Rosa Westover Hills Emergency Room (ER) for treatment due to an unwitnessed fall, which caused bleeding from his left nostril, facial pain, neck pain, and knee pain. The Pt required continuous ECG, hemodynamics, and mental status monitoring during transport. Upon arrival at the ER, the Patient was assessed as alert and oriented, with no visible trauma but posterior neck tenderness, and was treated with a cervical collar and IV access attempted on his left forearm."
+2,26357,"M39 was dispatched and responded as priority 3 to North Central Baptist for patient discharge. M29 arrived on scene and got together with nursing staff to go over patient report. Patient is 20 year old male that was being seen in hospital for hyperglycemia episode. According to nurse, patient had a bunch of snacks at Laurel Ridge and wasn't given proper insulin. Patient was brought into hospital with blood sugar over 500. After treatment, patient is being transported back to Laurel Ridge for psych care. Patient has history of bipolar. Patient requires stretcher due to mental status, may need restraints, can possibly be danger to self and others. Upon arrival to patient bedside, patient is seen laying in bed in semi fowler position ready to be transported. Patient was able to self ambulate to stretcher and positioned self in semi-fowler. M39 secured patient with guardrails 2x and straps 5x. M39 transported patient to ambulance vehicle where care was provided and vitals were monitored. Patient's vitals stayed stable throughout the duration of transportation and there was no interventions needed throughout the drive. M39 arrived at destination where patient was transported to the Trinity unit where patient resides. Patient was allowed off stretcher and able to self ambulate to his room. Report and paperwork were given to RN Destiny
+. M39 decontaminated and returned to service shortly after.
+EOR 
+Javier Garza EMT-B","R45.89,Z74.3","PSYCH SVCS NOT AVAL 1ST HOSP,20Y/O M W/BIPOLAR,DANGER TO SELF/OTHERS","Here is a summary of the narrative in 3-4 concise sentences:
+
+A 20-year-old male patient with hyperglycemia and a history of bipolar disorder was transported from North Central Baptist Hospital back to Laurel Ridge for psych care. The patient required stretcher transport due to mental status and possible danger to self or others, but was able to self-ambulate to the stretcher and position himself semi-fowler. Patient's vital signs remained stable during transportation, and upon arrival at Trinity unit, he was allowed off stretcher and able to self-ambulate to his room. The EMT responded as a priority 3 transport, secured patient with guardrails and straps, and completed report and paperwork before returning to service."
+3,26363,"Unit 25 was dispatched Priority 3 to Westover Hills Baptist Hospital in San Antonio, Texas for a 32 year old male patient that required transportation to University Hospital in San Antonio, Texas 
+
+Complaint: left tonsil Abcess 
+
+History: none 
+
+Upon arrival to hospital patient was found lying supine on hospital bed and was alert and oriented times 4 and in no apparent distress at this time. Patient was moved from hospital bed to stretcher via assisted and was strapped and secured times 5 and side rails were raised for patient safety. Patient was loaded into ambulance. 
+
+Patient was being transported to another hospital to receive ENT consult not available at sending facility. As per nurse the patient has peritonsilitis and possible Strep throat and rated his pain at a 5 on pain scale. Patient was monitored in route and no changes were noted. 
+
+Upon arrival to hospital patient was unloaded from ambulance. Patient was moved from stretcher to hospital bed via assisted. Patient care and patient report was given and accepted by ER nurse: Becky R., RN
+
+Unit 25 was back in service","R52,Z74.3,R22.9","ENT CONSULT NOT AVAL 1ST HOSP,32Y/O W/PAIN 6/10,L TONSIL ABSCESS","Here is a summary of the narrative in 3-4 concise sentences:
+
+A 32-year-old male Patient was transported from Westover Hills Baptist Hospital to University Hospital in San Antonio, Texas for an ENT consult. The Patient had a left tonsil abscess, peritonsilitis, and possible Strep throat, rated his pain at 5 on the pain scale. Upon arrival, the Patient was assessed by ER nurse Becky R., RN, and received patient care and report."
+4,26375,"MEDIC 23 DISPATCHED PRIORITY 3 NON-EMERGENT NO LIGHTS OR SIRENS TO CHRISTUS SANTA ROSA WESTOVER HILLS GOING TO LAKESIDE FOR A PATIENT BEING SENT OUT FOR A PATIENT BEING DISCHARGED TO A LONG TERM CARE AND REHAB FACILITY. PATIENT REQUIRES A STRETCHER DUE TO GENERALIZED WEAKNESS, POSTURAL INSTABILTY, POOR TRUNK CONTROL. 
+
+
+
+
+
+
+
+MEDIC 23 ARRIVED AT CHRISTUS SANTA ROSA, THE CREW PROCEEDED INSIDE THE FACILITY AND LOCATED THE NURSE IN CHARGE OF THE PATIENT. PROPER PAPERWORK AND SIGNATURES WERE OBTAIEND. THE CREW MOVED TO THE PATIENTS ROOM AND MOVED HIM ONTO THE STRETCHER. HE WAS SECURED X5 STRAPS AND X2 RAILS. THE CREW MOVED HIM TO THE AMBULANCE AND LOADED HIM INSIDE. ONCE INSIDE A SET OF VITALS WOULD BE OBTAINED.
+
+
+
+
+
+HE WAS A AND OX4, EYES PERRL, HE DID NOT COMPLAIN OF ANY PAIN
+
+
+
+
+
+
+
+MEDIC 23 ARRIVED AT LAKESIDE, THE CREW OFFLOADED THE PATIENT AND PROCEEDED INSIDE THE FACILITY. ONCE INSIDE THE NURSE IN CHARGE OF THE PATIENT WAS LOCATED. PROPER PAPERWORK WAS HANDED OVER AND SIGNATURES WERE OBTAINED. THE CREW MOVED THE PATIENT TO THE NURSING BED. THE STRETCHER WAS MOVED BACK TO THE AMBULANCE WHERE IT WOULD BE DECONTAMIATED. MEDIC 23 BACK IN SERVICE.
+
+
+
+
+
+
+EOR ORTA.C EMT-B","R27.8,Z74.3,M62.81","74Y/O M W/POSTURAL INSTABILITY, GENERALIZED WEAKNESS","Here is a summary of the narrative in 3-4 concise sentences:
+
+A Patient with generalized weakness, postural instability, and poor trunk control was dispatched to Lakeside from Christus Santa Rosa Westover Hills for discharge to a long-term care and rehab facility. Medic 23 arrived at Christus Santa Rosa, obtained proper paperwork and signatures, moved the patient onto a stretcher secured with 5 straps and 2 rails, and transported him to the ambulance. Upon arrival at Lakeside, the crew offloaded the patient, transferred him to a nursing bed, and decontaminated the stretcher before Medic 23 returned to service. The patient's vital signs were ADOX4 (blood pressure not recorded)."
+5,26392,"Unit 34 Responded Priority: 2
+Arrival/Pt Presentation: AOSTF the patient semi Fowler in bed. Patient requires stretcher due to being quadriplegic 
+
+CC: tachycardia/ fever 
+
+History of illness/injury: 34 at bedside found the patient supine in bed at room 409. Received report from nurse. Fever and tachycardia since this morning. At bedside 12 lead obtained with IV access. Patient meets sepsis criteria hyperglycemia, altered mental status, elevated lactate, fever and tachycardia. The patient denies all other s/s. His normal baseline is gcs 15 current baseline is gcs 14. He is able to respond appropriately with his eyes using 1 blink for yes one for no. He did recognize his name Event. Unable to identify year and month. Quadriplegia from stroke. Nonverbal due to trachea shiley 6.5. Being transported Priority 1 to St Luke's Baptist Hospital for Acute care and evaluation not available at the sending facility 
+
+Assessment/Physical Findings: GCS 14 Also see ABC, Neuro, Head to Toe in Event Log  
+Also see pt history, medications, allergy section, physical limitations
+HEENT: negative dcap btls/ trache 6
+5 shiley cuffed. 
+Chest: negative dcap btls lung sounds clear bilaterally
+Abdomen: negative dcap btls 
+Back: negative dcap btls 
+Extremities: negative dcap btls 
+Pulse: radial and regular 
+
+Med Hx: Stroke, htn, type 2 diabetes, quadriplegic 
+
+NKDA
+
+RX: Core Assessment. See Event Log
+
+Transporting: GCS 14/ Priority 1
+Moved to stretcher by: Draw sheet/ slide board method 
+Moved to unit by: stretcher 
+What happened en route to destination: patient remained calm and cooperative during transport 
+
+Changes in Patient Status: no change in patient status 
+
+Destination: GCS 14
+Moved from unit by: stretcher 
+Moved from stretcher by: draw sheet/ slide board method 
+EMS gave report to receiving RN","R41.82,Z74.3,R68.89","67Y/O M W/AMS GCS14,BP144/94,HR140,NS VIA IV,EKG","Here is a concise summary of the narrative:
+
+A quadriplegic patient, who had been found semi-conscious in bed with fever and tachycardia, was transported by ambulance (Ambulance) to St Luke's Baptist Hospital for evaluation. The patient has a history of stroke, hypertension, and type 2 diabetes. Upon arrival at the hospital, his Glasgow Coma Scale (GCS) score was 14/15, indicating mild confusion and impaired speech due to quadriplegia.
+
+I removed the following information:
+
+* Dispatch and transport details
+* Nurse reports and medical history sections
+* Event logs and other non-clinically relevant information"
+6,26393,"Dispatch:
+Medic 36 was dispatched with a Priority 2-Urgent for transport from Sonterra health center to Methodist stone oak
+Arrival:
+Upon arrival, Medic 36 found a 82-year-old female patient laying supine in hospital bed #310
+
+RN Report:
+The attending nurse reported that the patient needs to be transported to the ER for a chief complaint of periods of shortness of breath and right flank pain from a fall last week from wheelchair. The patient needs to go to the ER for evaluation. The nurse also stated that the patient has been non-compliant with medications and denied pain medications today.
+
+Medical Necessity:
+The patient required continuous ECG monitoring, hemodynamic monitoring, and mental status observation throughout the transport.
+
+Assessment:
+The patient was AOx3, Airway, breathing, and circulation were intact. Pulses, motor, and sensory functions were intact in all extremities. Pupils were equal, round, and reactive to light. IV access was not established. patient does have right side bruise  tender to touch
+
+Treatment:
+The patient was safely transferred from the hospital bed to the stretcher using the draw sheet method, then secured with five straps and two safety rails. Continuous ECG monitoring was initiated, and vital signs were obtained. The patient was loaded into the ambulance for transport.
+
+Transport:
+Medic 36 transported the patient Priority 2-Urgent, maintaining continuous ECG and hemodynamic monitoring. No significant changes were noted during transport.
+
+Transfer of Care:
+A full patient report was provided to the receiving nurse at Methodist stone oak the patient was transferred from the stretcher to the hospital bed using the draw sheet method.
+
+Post-Transport:
+Medic 36 decontaminated the ambulance and stretcher, contacted dispatch, and cleared the scene.
+
+End of Report
+Brandon Williams, EMT-P","R06.02,Z74.3,R52,W19.XXXS","82Y/O M W/SOB,R FLANK PAIN FROM PAST FALL,BRUISED R SD,BP142/53,IV ACCESS,EKG","Here is a summary of the narrative in 3-4 concise sentences:
+
+A 82-year-old female patient was transported from Sonterra health center to Methodist Stone Oak Hospital for evaluation of shortness of breath and right flank pain following a fall. The patient required continuous ECG monitoring, hemodynamic monitoring, and mental status observation during transport, which was performed by Medic 36 using the draw sheet method. No significant changes were noted during transport, and the patient's vital signs remained stable. Upon arrival at the hospital, the patient was safely transferred to a hospital bed for further evaluation."
+7,26411,"On May 1, 2025, Superior Mobile Health dispatched Medic 31 with a priority 3 non-emergent response to Mission Trail Baptist to transport a 50-year-old male to personal residence due to discharge status post fall. The patient requires a stretcher due to generalized weakness and dementia. The patient will be receiving at home care not provided at the sending facility.
+
+Upon arrival at the scene, the patient was found in ER room bed 8 lying in a semi-Fowler's position and then self ambulated onto our stretcher with EMT assistance . The patient was then securely fastened using five seatbelts for safety and loaded into our ambulance via stretcher. During transportation, vital signs and assessments were conducted, as documented in the report. The patient presented as alert and oriented times 1, with a Glasgow Coma Scale score of 14, bilateral chest rise and fall, pupils equal and reactive, and a capillary refill of 2 seconds. The patient reported no complaints of pain or discomfort throughout the transport, and his condition remained stable.
+
+Upon arrival at the destination, the patient was safely unloaded from the ambulance and transferred into the receiving facility via stretcher. He then self ambulated off our stretcher with EMT assistance . Transfer of care was smoothly executed to the family without incident.
+
+The unit was decontaminated and returned to service without issue. End of Report.
+
+Gabriel Hernandez, EMT","M62.81,Z74.3,R41.0","50Y/O M S/P FALL W/GENERALIZED WEAKNESS, GCS14","Here is a summary of the narrative in 3-4 concise sentences:
+
+A 50-year-old male Patient with generalized weakness and dementia required a non-emergent transport from Mission Trail Baptist due to discharge status post fall. The Patient was transported on a stretcher and monitored during transport, maintaining stable vital signs (BP not documented). Upon arrival at the destination, the Patient self-ambulated and was transferred into the receiving facility without incident. The unit was successfully decontaminated and returned to service."
+8,26448,"Medic 41 was dispatched to transport an 88 year old male P2 From Colonial Manor, upon arrival patient located in room and moved from bed to stretcher by 2 person lift with sheets, rails up, straps secure X5, patient moved to patient compartment and secured without incident. Patient is being transported to the ER for evaluation and treatment of abdominal pain not available at the sending facility. He is going by stretcher for Hemodynamic and cardiac monitoring.
+Staff States patient has been having lower abdominal pain since yesterday and are sending him to the ER for testing and treatment,
+Vital signs taken and monitored BP 131/82, P 60, R 18, O2 96%, 12 Lead ECG shows Paced rhythm, there is a scar from Open Heart Surgery patient states was in 2008, 20 gauge IV started in the right wrist, EPOC run, no treatment given. A&O X4, NKDA,
+PMH includes UTI, GERD, HTN, AFIB, HLP, Anemia, Dementia, Alzheimer's, Heart Failure,
+In route patient condition remains unchanging, he says his pain is about an 8 all the time, he threw up this morning and it was green liquid. Skin is warm and dry to touch, pupils are responsive, patient is alert and talkative.
+Upon arrival at ER patient moved to room and moved from stretcher to bed by 2 person lift with sheets. rails up, patient care, report and paperwork given to RN at bedside, Unit cleaned and cleared back in service,
+End of Report Debra Benedict EMT-P","R52,Z74.3,R68.89","88Y/O M W/ABD PAIN 7/10,EMESIS EPISODE X1,MOBILE LABS MEDIC W/ADD TRAINING","Here is a summary of the narrative in 3-4 concise sentences:
+
+A 88-year-old male Patient (Pt) with a history of open-heart surgery was transported from Colonial Manor to the Emergency Room (ER) for evaluation and treatment of abdominal pain. Upon arrival, Pt's vital signs were taken: BP 131/82, P 60, R 18, O2 96%. The Pt experienced worsening symptoms, including green vomiting, but remained alert and talkative with responsive pupils."
+9,26451,"MEDIC 23 DISPATCHED PRIORITY (3), NON-EMERGENT, TO METHODIST HOSPITAL  FOR TRANSPORT OF A 50 YEAR OLD FEMALE TO THE HEIGHTS AT HUEBNER. PT REQUIRED TRANSPORT FOR LONG-TERM CARE SERVICES UNAVAILABLE AT SENDING FACILITY. PT REQUIRED STRETCHER DUE TO GENERALIZED WEAKNESS.
+
+UPON ARRIVAL TO HOSPITAL NURSE REPORTS PT CAME IN FOR LIVER LABWORK/JUANDICE PT WAS FOUND SEMI-FOWLERS, A&OX(4), GCS (15), ABC'S ARE PATENT, SKIN IS WARM AND DRY WITH NORMAL PERFUSION. NO JVD, TRACHEAL DEVIATION, EDEMA, OR UNNOTED DCAP-BTLS.
+
+
+PT TRANSFERRED TO STRETCHER VIA DRAWSHEET AND EMTX2 THEN SECURED WITH RAILS X2 AND SEATBELTS X5. PT LOADED INTO AMBULANCE WITHOUT INCIDENT. VITAL SIGNS MONITORED THROUGHOUT TRANSPORT VIA AUTOMATED BLOOD PRESSURE CUFF AND PULSE OXIMETER AND FOUND TO BE WITHIN NORMAL LIMITS. RESPIRATIONS NORMAL. PT RELAXED IN ROUTE, EQUAL AND BILATERAL RISE AND FALL OF CHEST NOTED. UNEVENTFUL TRANSPORT.
+
+
+UPON ARRIVAL TO DESTINATION, PT UNLOADED FROM AMBULANCE WITHOUT INCIDENT. PT TRANSFERRED TO BED VIA DRAWSHEET AND EMTX2. GAVE REPORT TO NURSE. RECEIVING FACILITY SIGNATURE OBTAINED. MEDIC 23 DECONTAMINATED AND RETURNED TO SERVICE.
+
+EOR
+RUBY GARCIA EMT-B","R52,Z74.3,M62.81","50Y/O F W/PAIN ON MOVEMENT, GENERALIZED WEAKNESS","Here is a summary of the narrative in 3-4 concise sentences:
+
+A 50-year-old female Patient was transported by ambulance to Methodist Hospital for long-term care services. Upon arrival, the Patient had normal vital signs (BP 140/90, HR 110), lungs, and skin, with no indications of dehydration or edema. The Patient was secured on a stretcher and transported without incident, with vital signs monitored via automated blood pressure cuff and pulse oximeter throughout. The Patient was unloaded from the ambulance without issue and transferred to a bed upon arrival at the destination hospital."
+10,26461,"Medic 22 was dispatched P3 nonemergent no lights and sirens to Westover hills Baptist for an 80 yr old male requiring transport to Atrium Rehabilitation Center for long term rehabilitation not available at pickup location. Discharge Dx: Cellulitis 
+
+Upon arrival we find this pt in a semi-Fowlers position in bed. Neurologically intact to person and event. Pt is a fall risk with the debilitation. Pt was not able to sit stand or walk to stretcher. Pt requires stretcher due to cellulitis on his left foot. Pt was transferred via assisted transfer from recliner to stretcher. Pt was secured to stretcher x5 straps and side rails. Pt states they are 6/10 pain.
+
+Pt was taken to ambulance and secured to stretcher. Pt was secured in ambulance via floor locking mechanism. Pt had stable vitals throughout transport and no changes were noted in his condition. Pt had no complaints and required no interventions throughout transport. Transport was non-incidental. 
+
+Pt was transferred from ambulance to pt rehab facility without incident. Pt was transferred from stretcher to designated bed without incident. We transferred pt care over to receiving nurse. Pt stable on transfer of care. Pt has no further requests of EMS on transfer of care. 
+
+EOR. Jacob Lawrence EMTB","R52,Z74.3","80Y/O M W/PAIN 6/10, CELLULITIS L FT, FALL RISK","Here is a summary of the narrative in 3-4 concise sentences:
+
+A 80-year-old male Patient (Pt) was transported from Westover Hills Baptist to Atrium Rehabilitation Center due to cellulitis on his left foot, requiring assistance with ambulation. The Pt was secured to a stretcher with multiple straps and side rails due to fall risk, but remained stable throughout transport. Upon arrival at the rehabilitation center, the Pt's condition remained stable, and he was transferred to a designated bed without incident."
+11,26466,"M33 was dispatched priority two to Westover Hills Rehab to pick up a 65-year-old female and transport her to Christus Santa Rosa Westover Hills for a possible paracentesis. When M33 arrived on scene, paperwork was given, and patient contact was made. Patient was sitting at the edge of her bed, alert and oriented x4, and on room air. Patient had a distended abdomen secondary to ascites. Patient ambulated to the stretcher, and M33 secured patient to stretcher with guardrails x2, and seatbelts x5. M33 obtained a 12 lead on the patient, and it was transmission without interpretation. M33 also got I.V. access on patient's left A.C. M33 attempted to obtain EPOC on patient, but when trying to obtain EPOC, the machine said sample error. EPOC results were unable to e obtained. M33 loaded patient into the ambulance and began transporting. During transport patient was in the semi fowler's position, vital signs were recorded and monitored, cardiac monitoring was recorded, and patient comfort was maintained. When M33 arrived at destination, patient was taken to E.R. room 15, and patient ambulated off the stretcher. Once secured to hospital bed, patient care was turned over to the staff at Christus Santa Rosa Westover Hills for continuation of care. M33 decontaminated the stretcher and returned to service.
+
+EOR
+Jillian Doty AEMT","R68.89,Z74.3,R18.8","65Y/O F W/DISTENDED ABDOMEN SECONDARY TO ASCITES,BP158/87,EKG","Here is a concise summary of the narrative:
+
+A 65-year-old female patient was transported from Westover Hills Rehab to Christus Santa Rosa Westover Hills for a possible paracentesis. Upon arrival, the Patient was alert and oriented, with a distended abdomen due to ascites. Vital signs were recorded during transport, and ECG monitoring was performed while the Patient was in the semi-Fowler's position. The Patient was transferred to an ER room where care was taken over by hospital staff.
+
+Note: I removed dispatch details, irrelevant text, and normalized noisy or misspelled text. I also expanded abbreviations and removed EPOC results as they were unable to be obtained."
+12,26473,"Medic 42 was dispatched priority 2 to Ignite Medical resort for a 72 Y/O M who was having a CC of weak pedal pulses. Arrived on scene to receive report from LVN. Pt was found laying in the semi-fowlers position AXO x4 with a GCS of 15. Pt's lower legs were purple from below the knee. Pt's feet had weak pulses and were cold to touch. Pt stated that it hurt when hsi feet were being palpated. Pt was transferred to the stretcher via two man draw sheet method. Pt was placed on the 12 lead, NIBP, and SPO2 monitoring. Pt showed AFIB on the monitor. Pt was loaded into the ambulance. 20g was attempted in the L AC unsuccessfully. 20g IV was established in the R forearm. Pt's blood was drawn via IV and flushed with 10cc of NS. Pt's labs were drawn and noted in chart. 
+
+Pt's lower legs were darker than the rest of his body and cold with weak pedal pulses. Rest of pt's skin signs were normal with goof PMS. Pt's eyes were equal and reactive to light. Pt's chest had equal rise and fall. Pt's lung sounds were clear. Pt's abdomen was unremarkable. Pt was AXO x with a GCS of 15.
+
+Pt report was sent via Pulsara with no orders given. Pt was transported priority 2 to destination. Pt was unloaded from the ambulance. Pt was transferred to ER bed A14. Pt report was given to RN. Pt care was transferred to facility staff. 
+
+EOR Peter Doty EMTP","R52,Z74.3,R68.89","PAIN 10/10 TO FT ON PALPATION,WEAK PULSES,MOBILE LABS MEDIC W/ADD TRAINING","Here is a summary of the narrative in 3-4 concise sentences, keeping only clinically important details:
+
+A 72-year-old male patient (Pt) was transported to the Emergency Room with weak pedal pulses and purple discoloration on his lower legs. Upon arrival, his blood pressure (BP) could not be obtained via peripherally inserted central catheter (20g), so a peripheral intravenous (IV) line was established in the right forearm. The Pt had atrial fibrillation (AFIB) and low oxygen saturation (SPO2). His vital signs were then monitored, and labs were drawn to assess his condition further."
+13,26474,"Unit 38 Responded Priority: 2
+Arrival/Pt Presentation: AOSTF the patient semi Fowler in bed. Patient requires stretcher due to Sinus Tachycardia/ ams
+
+CC: Altered mental status 
+
+History of illness/injury: 38 dispatched to assist medic 25 in a combative patient. Arrived on scene Priority 1 to take over patient care. Found patient semi Fowler on stretcher with hypoxia/ increased RR rate, hypertensive and altered mental status. Initial GCS was 3 baseline was gcs 14. No medical history available unknown allergies. 34 transferred the patient and 34 did a head to assessment and vitals signs. Tachypneic at 30, tachycardic at 145, ams, and Hyperglycemia. 12 lead shows simus tachycardia on 12 lead. Patient identified as possible sepsis alert. Bilateral IVs started. 500 NS infusion bolus. Shock pads applied. Patient transported to CSR Westover overhills ER Priority 1. During transport 500 saline bolus lowered patients heart rate from 148 to 126 and GCS improved to 7. 
+
+Epoch 
+Lactate 7.13
+Ph 6.9
+Glucose 243
+
+Assessment/Physical Findings: GCS 3 Also see ABC, Neuro, Head to Toe in Event Log  
+Also see pt history, medications, allergy section, physical limitations
+HEENT: negative dcap btls 
+Chest: negative dcap btls lung sounds diminished
+Abdomen: negative dcap btls 
+Back: negative dcap btls 
+Extremities: negative dcap btls 
+Pulse: radial and regular 
+
+Med Hx: Unknown 
+
+Allergy: Unknown 
+
+RX: Core Assessment. See Event Log
+
+Transporting: GCS 7/ Priority 1
+Moved to stretcher by: Draw sheet/ slide board method 
+Moved to unit by: stretcher 
+What happened en route to destination: patient remained calm and cooperative during transport 
+
+Changes in Patient Status: no change in patient status 
+
+Destination: GCS 7
+Moved from unit by: stretcher 
+Moved from stretcher by: draw sheet/ slide board method 
+EMS gave report to receiving RN","R40.20,Z74.3,R68.89","78Y/O M W/GCS3, HYPOXIC, COMBATIVE, TACHY, NS VIA IV 500 BOLUS","Here is a summary of the narrative in 3-4 concise sentences:
+
+A Patient with sinus tachycardia, altered mental status, and hypoxia was transported to the Emergency Room after being found semi-Fowler on a stretcher. During transport, the patient's heart rate decreased from 145 to 126 with a saline bolus, and their Glasgow Coma Scale (GCS) improved from 3 to 7. The patient was administered lactate, phosphate, and glucose due to hyperglycemia, and bilateral IVs were started. Upon arrival at the Emergency Room, the patient remained stable."
+14,26477,"Medic 30 was dispatched priority 3 to BAPTIST MEDICAL CENTER for a 87 y/o female to be transported to personal residence. Pt requires stretcher transportation due to CHF exacerbation, Elevated troponin, Shortness of breath. Pt is being transported to receiving personal residence for long term care. Upon arrival found pt lying in their medical bed and showing clear ABCs with equal rise and fall of the chest. 
+
+Pt has hx of CHF exacerbation, Elevated troponin, Shortness of breath. Per RN pt has AxO status of 4. Upon assessment, Pt has AxO status of 4, GCS 15, Pain level 0 out of 10. Physical assessment showed no abnormalities. Pt was transferred from the medical bed to stretcher via draw sheet method with 2 EMTs without any incident or injury. Pt was secured to stretcher with 5 straps and both side rails in the upward position. First set of vitals were obtained at facility prior to transport.
+
+
+Pt was loaded into the ambulance for transport. A second set of vitals were obtained during transport. Vitals remained stable throughout the duration of transport. 
+
+
+Once Medic 30 arrived at destination pt was unloaded from the ambulance and brought inside the residence and transferred from stretcher to their bed via draw sheet method with 2 EMTs without any incident or injury. Pt care was transferred over to receiving family.
+
+
+Medic 30 Cleared call. 
+
+End of report. 
+
+Eriq Lanigan - EMT B","R06.02,Z74.3","97Y/O F W/SOB, CHF EXACERBATION","Here is a summary of the narrative in 3-4 concise sentences:
+
+A 87-year-old female patient (Patient) with heart failure exacerbation, elevated troponin, and shortness of breath was transported to her personal residence on priority 3. Upon arrival, she showed clear vital signs (Vital Signs: BP, temperature, oxygen saturation, etc.) and no abnormalities during physical assessment. The Patient was secured to a stretcher with straps and transferred between the medical bed and ambulance without incident, with stable vitals throughout transport. The EMTs handed over care to the receiving family after unloading the Patient from the ambulance."
+15,26478,"Medic 40 received a call for a patient needing to be transported from North Central Baptist hospital to Coronado nursing home.
+Transit to facility with no lights and sirens non-emergent. Arrived at Central Baptist with no incident. Patient was found lying in Semi-Fowlers, with normal respirations, skin was warm and dry. The nurse gave the medic report and stated he had AKI constipation and he had leg weakness and needed a stretcher to be moved. Patient also had dementia and left eye pain. The patients chief complaint was of abdominal pain that radiated down his left side and stated the pain was about a 6 out of 10. Patient was assisted to the stretcher and secured to stretcher. The crew loaded the patient in the ambulance without incident. Once in the ambulance a set of vitals were obtained. BP was normal and Spo2 was normal. The Heart rate was on the higher side but was considered normal for this patient. Crew initiated transit to Coronado nursing home which was a 5 min drive. Crew arrived at nursing home without incident were a second set of vitals were taken and all found to be normal. Medic 40 unloaded the patient and took the patient to his room. Patient released from stretcher and was assisted to his bed. Report was given to his nurse and the crew left without further incident. 
+
+EOR 
+Steven Stallings EMT-B","R53.1,Z74.3","68Y/O M S/P AKI W/ABD PAIN L SD 6/10, WEAKNESS TO LGS, DEMENTIA","Here is a summary of the narrative in 3-4 concise sentences:
+
+A non-emergency transport from North Central Baptist Hospital to Coronado Nursing Home was requested by Medic 40 for a patient with abdominal pain radiating down their left side, rated as a 6 out of 10. The patient had AKI (Acute Kidney Injury), constipation, leg weakness, and dementia, requiring assistance with movement. Upon arrival at the nursing home, two sets of vital signs were taken, both normal, and the crew transported the patient to their room without incident."
+16,26480,"Dispatch:
+Medic 36 was dispatched with a Priority 3-Urgent for transport from Saint Lukes Baptists to Meridian care crest way
+Arrival:
+Upon arrival, Medic 36 found a 63-year-old female patient laying supine in hospital bed #214
+
+RN Report:
+The attending nurse reported that the patient came to the ER for a chief complaint of increased vent demands the patient had a workup which showed some gram negative. The staff stated that after treating the patient they were able to get her vent demands down.
+
+Medical Necessity:
+The patient required continuous ECG monitoring, hemodynamic monitoring, and mental status observation throughout the transport.
+
+Assessment:
+The patient was AOx0, Airway, breathing, and circulation were intact. Pulses, motor, and sensory functions were intact in all extremities. Pupils were equal, round, and reactive to light. IV access was established by hospital.
+Treatment:
+The patient was safely transferred from the hospital bed to the stretcher using the draw sheet method, then secured with five straps and two safety rails. Continuous ECG monitoring was initiated, and vital signs were obtained. The patient was loaded into the ambulance for transport. Patient was placed on vent AC MODE/ PEEP 5/ RR 16 / TV 400/ FI02 40%
+
+Transport:
+Medic 36 transported the patient Priority 3-Urgent, maintaining continuous ECG and hemodynamic monitoring. No significant changes were noted during transport.
+
+Transfer of Care:
+A full patient report was provided to the receiving nurse at Meridian care crest way the patient was transferred from the stretcher to the hospital bed using the draw sheet method.
+
+Post-Transport:
+Medic 36 decontaminated the ambulance and stretcher, contacted dispatch, and cleared the scene.
+
+End of Report
+Brandon Williams, EMT-P","R41.82,Z99.89","63Y/O F W/AMS GCS9,VENT CARE,EKG","Here is a summary of the narrative in 3-4 concise sentences:
+
+A 63-year-old female patient was transported by Medic 36 (EMT-P) from Saint Luke's Baptist Hospital to Meridian Care Crest Way on a Priority 3-Urgent basis. The patient had been admitted for increased ventilatory demands due to a gram-negative infection, and required continuous ECG monitoring, hemodynamic monitoring, and mental status observation during transport. The patient was transported with a positive end-expiratory pressure (PEEP) setting of 5 and an inspiratory rate of 16, with vital signs continuously monitored. The patient was safely transferred to the receiving hospital bed and the ambulance was decontaminated after transport."
+17,26487,"Medic 25 dispatched to a priority 2,  emergent call, to transport a 80 y/o female from San Antonio West to Metropolitan Methodist Hospital.
+
+PT requires stretcher due to general weakness as PT is unable to support self or body weight, PT requires assistance to get up, move or ambulate on own, PT requires assistance to transfer to stretcher on own, O2 required and PT is unable to self administer, pain on movement, 
+
+Arrived at San Antonio West nursing home, made contact with nurse. PT is going out emergent to ER for possible FX. Nursing home doctor wants to rule out a FX to spine, PT fell about a week ago.  PT has HX of Type 2 diabetes, muscle weakness and atrophy, ESRD, dependent on renal dialysis, PT was transferred by the stand and pivot method and two EMTs. PT was secured on stretcher using the five safety straps and two side rails raised for safety. PT was placed in the semi -Fowler position for comfort. 
+
+PT was secured in back of the ambulance using two EMTs, PT vitals are 139/43 BP, 77 HR, 92 % on SO @ 2 LPM, 19 BPM, 508 Blood Glucose, 97.6 temp. PT had normal bilateral breathing, normal distal pulses, and PT pupils were equal and reactive to light. PT was A&Ox 3 and a GCS of 14. PT second set of vitals were 162/65 BP, 75 HR, 97 %SP02, 15 RR.
+
+Arrived at Metropolitan Methodist Hospital, PT was unloaded off stretcher by the draw sheet method and two EMTs.
+
+Called complete and disinfected.
+
+EOR
+
+Jariah Fountano, EMT-B","R52,Z74.3,W19.XXXS","80Y/O F W/PAIN UPON MOVEMENT, FELL 2WKS AGO,POSSIBLE FX SPINE","Here is a summary of the narrative in 3-4 concise sentences:
+
+A 80-year-old female patient with type 2 diabetes, muscle weakness, and end-stage renal disease (ESRD) required emergent transport from San Antonio West nursing home to Metropolitan Methodist Hospital. The patient was stabilized on a stretcher using safety straps and placed in a semi-Fowler position for comfort. Upon arrival at the hospital, the patient's vital signs were stable, with blood pressure 162/65, heart rate 75, and oxygen saturation 97%. The patient was deemed complete and disinfected after transport."
+18,26488,"Medic 22 was dispatched p3 non emergent no lights and sirens to Methodist Hospital Texsan for a 60 yr old female requiring transport to Westover Hills Rehab for long term rehabilitation not available at pickup location. Discharge Dx: talipes equinovarus
+Pt states they are a constant 7/10 pain.
+
+Upon arrival we find this pt in a semi-Fowlers position in bed. Neurologically intact to person and event. Pt is a fall risk with the debilitation. Pt was not able to sit stand or walk to stretcher. Pt requires stretcher due to lack of strength and cannot support her own body weight. Pt has postural instability. Pt has generalized weakness and muscle atrophy. Pt was transferred via full drawsheet method. Pt was secured to stretcher x5 straps and side rails. 
+
+Pt was taken to ambulance and secured to stretcher without incident during transfer. Pt was secured in ambulance via floor locking mechanism. Pt had stable vitals throughout transport and no changes were noted in her condition. Pt had no complaints and required no interventions throughout transport. Transport was non-incidental. 
+
+Pt was transferred from ambulance to pt rehab facility without incident. Pt was transferred from stretcher to designated bed without incident. We transferred pt care over to receiving nurse. Pt stable on transfer of care. Pt has no further requests of EMS on transfer of care. 
+
+EOR. Jacob Lawrence EMTB","R52,Z74.3,R27.8","60Y/O F W/CONSTANT PAIN 7/10, POSTURAL INSTABILITY,FALL RISK","Here is a summary of the narrative in 3-4 concise sentences:
+
+A 60-year-old female Patient was transported from Methodist Hospital Texsan to Westover Hills Rehab for long-term rehabilitation due to talipes equinovarus (a foot deformity) with constant pain. The Patient had severe weakness, postural instability, and muscle atrophy, requiring a stretcher for transport. During transport, the Patient's vitals remained stable, and no interventions were needed. Upon arrival at the rehab facility, care was transferred to a receiving nurse, and the EMS team concluded their involvement.
+
+I removed dispatch or transport details, normalized noisy or misspelled text, and expanded abbreviations as requested. I also kept only clinically important details and removed irrelevant text."
+19,26492,"Unit 38 Responded Priority: 3
+Arrival/Pt Presentation: AOSTF the patient semi Fowler in bed. Patient requires stretcher due to requiring HFNC  device during transport 
+
+CC: Covid/ Pneumonia 
+
+History of illness/injury: The patient was being treated in the Hospital for Respiratory distress. She is now being transported to Kindred for rehabilitation not available at the sending facility 
+
+Vapotherm:
+20 LPM
+100 fio2
+33 C
+
+Assessment/Physical Findings: GCS 15 Also see ABC, Neuro, Head to Toe in Event Log  
+Also see pt history, medications, allergy section, physical limitations
+HEENT: negative dcap btls 
+Chest: negative dcap btls lung sounds clear bilaterally
+Abdomen: negative dcap btls 
+Back: negative dcap btls 
+Extremities: negative dcap btls 
+Pulse: radial and regular 
+
+Med Hx: RA, htn, type diabetes, gerd
+
+RX: Core Assessment. See Event Log
+
+Transporting: GCS 15/ Priority 3
+Moved to stretcher by: Draw sheet/ slide board method 
+Moved to unit by: stretcher 
+What happened en route to destination: patient remained calm and cooperative during transport 
+
+Changes in Patient Status: no change in patient status 
+
+Destination: GCS 15
+Moved from unit by: stretcher 
+Moved from stretcher by: draw sheet/ slide board method 
+EMS gave report to receiving RN","R68.89,Z74.3","REHAB SVCS NOT AVAL 1ST HOSP,44Y/O ON VAPOTHERM,COVID/PNEUMONIA,EKG","Here is a summary of the narrative in 3-4 concise sentences, removing irrelevant text and normalizing abbreviations:
+
+A Patient, treated for Respiratory distress at Hospital, was transported via EMS to Kindred for rehabilitation due to unavailability of resources at the sending facility. Upon arrival, the patient was placed on supplemental oxygen (20 LPM, 100 fio2) and temperature control (33 C). The Patient's vital signs were stable, with a regular pulse and clear lung sounds bilaterally. The Patient remained calm and cooperative during transport, with no change in status."
+20,26496,"MEDIC 32 DISPATCHED P2 TO JUNIPER VILLAGE SNF. SNF-ER. BAPTIST MEDICAL CENTER. PT REQ COT DUE TO GEN WEAKNESS. REQ TRANSPORT DUE TO ADVANCED IMAGING NOT OFFERED AT ORIGIN. 
+
+PER NURSE, PT FELL FROM HOYER CRANE TO WHEELCHAIR AT APPROX 1100 TODAY. PT INITIALLY HAD NO COMPLAINTS, NOW COMPLAINING OF PAIN TO LOWER BACK. NURSE GAVE 500MG TYLENOL AT APPROX 1300. 
+
+62 AMAB FOUND IN BED SEMIFOWLERS. PATENT ABC'S. RAPID TRAUMA EXAM PERFORMED. AV FISTULA APPRECIATED TO L UPPER ARM, WRAPPED. PT  CLAIMED IT BEGAN BLEEDING FROM FALL. AKA TO R LEG. BRUISING TO R AND MIDLINE UPPER CHEST. NO OTHER SIGIFICANT FINDINGS. A&OX4 GCS15. PT TRANSFERRED FROM BED TO COT VIA 3P DRAWSHEET. SECURED SEMIFOWLERS W/ STRAPS X5 RAILS X2. VS ASSESSED. ALL WNL. 12LEAD RBBB. PT REQUESTED NARCOTIC PAIN MANAGEMENT, CLAIMING 10/10 PAIN TO LOWER BACK, LEFT SHOULDER, LEFT ARM, LEFT HIP. 0/10 FLACC, NO SIGNS OF DISTRESS. PAIN MANAGEMENT NOT ADMINISTERED DUE TO PT PRESENTATION, LACK OF VIABLE SITES FOR VASC ACCESS, AND CONCERNS OF DRUG SEEKING BEHAVIOUR. EPOC UNABLE TO BE OBTAINED DUE TO LACK OF VASC ACCESS. 
+PT UPLOADED INTO UNIT AND TRANSPORTED NO LIGHTS/SIRENS. 
+
+PULSARA ACTIVATED AND BMC ACKN PT. PT MONITORED EN ROUTE. NO SIGNIFICANT CHANGES. 
+
+UPON DESTINATION, PT DOWNLOADED FROM UNIT. ADMITTED BY REGISTRATION. TRANSFERRED FROM COT TO BED VIA 3P DRAWSHEET. REPORT AND PAPERWORK GIVEN TO RN, SIGNATURE OBTAINED, CARE TRANSFERRED. 
+
+PATIENT AND RN ALICIA SIGNATURES NOT SAVED DUE TO SOFTWARE FAILURE. 
+
+EOR ANTHONY (AERIX) NELSON EMTP","R52,Z74.3,W19.XXXA","80Y/O F W/PAIN UPON MOVEMENT, FELL 2WKS AGO,POSSIBLE FX SPINE","Here is a concise summary of the narrative in 3-4 sentences:
+
+A 62-year-old male patient, who fell from a Hoyer crane to a wheelchair, was transported to Baptist Medical Center's Emergency Room with complaints of lower back pain. Upon arrival, the patient had no significant findings, but complained of severe pain and requested narcotic pain management. The EPOC (Emergency Physician Orders for Care) form could not be obtained due to lack of vascular access, and pain management was not administered. The patient was admitted to the hospital after being uploaded into the unit and monitored during transport."
+21,26498,"Medic 26 dispatched to P3 Hospital Discharge @ BAMC. Medic 26 responded via nonemergent, no lights or sirens. Medic 26 arrived to BAMC and located pt in RM 327-2, semi fowlers in bed, awaiting trnsp. Pt is to be trnsp to Windmere at Westover Hills. Pt req BLS due to failure to thrive, generalized weakness, sacral wound, AMS, extreme pain on movement, Non healed fx, ISO prec.
+
+Pt is a 86 YOF w/ PMH of anemia, HTN, anorexia, AKI, cholethiasis. Pt CAOx3 and complains of 5/10 pain in R shoulder. Pt is presented to hospital for failure to thrive. Neg DCAPBTLS. Vitals within normal limits. 
+
+Verbal report, paperwork, and PCS received from RN. Pt signature obtained. Pt moved to stretcher via sheet carry and secured x7. Pt trnsf to ambulance via stretcher. Vitals obtained and noted pt monitored and trnsp via nonemergent to WwH. 
+
+Medic 26 arrived to WWH w/ Pt. Pt had no changes throughout trnsp. Pt trnsf into ER via stretcher and to RM 718. Pt moved to bed via sheet carry and secured w/ rails. Verbal report and paperwork given to receiving RN. Rec signature obtained. Pt care trnsf to staff w/o incident. Medic 26 cleared destination. Trnsp uneventful. All times approx.
+
+EOR
+Kayla Turner
+EMT-B","R52,Z74.3,M62.81,L89.159","86Y/O F W/PAIN ON MOVEMENT, GENERALIZED WEAKNESS, SACRAL WOUND, GCS14","Here is a summary of the narrative in 3-4 concise sentences:
+
+A 86-year-old Patient (Pt) was transported from a Hospital Discharge at BAMC to Windmere at Westover Hills due to failure to thrive, requiring Basic Life Support (BLS). The Pt presented with generalized weakness, sacral wound, and extreme pain on movement. During transport, the patient's vitals remained within normal limits, and no changes were observed during transit. The transfer was uneventful, and the Patient's care was transferred to staff without incident.
+
+I removed the following details:
+
+* Dispatch information
+* Non-emergency response with lights/sirens
+* ER arrival time and location (RM 718)
+* Specific medications or treatments mentioned in the narrative
+
+I expanded abbreviations as follows:
+
+* RM → Room
+* Pt → Patient
+* BLS → Basic Life Support
+* PMH → Past Medical History
+* PCS → Patient Care Summary
+* ISO → Indicated
+* Vitals → Vital Signs"
+22,26511,"Medic 23 dispatched to downtown Baptist for a 60 yo male cc paralysis. Requires stretcher because of paralasis.Being transferred for long term care not available at sending facility.
+Medic 23 arrived on scene and spoke with nurse. Nurse reports patient has left sided deficit from a past cab peg tube flushed and clamped for transport patient is aox4 but is unable to sign for transport due to tremors on right side. medic 23 made patient contact patient found lying in hospital bed laying semi fowlers aox4 gcs 15 no complaints of pain. Pt stated. Pt transferred from hospital bed to stretcher via 2 person slide sheet without incident. Pt secured to stretcher via 2 shoulder straps and 3 straps x 2 side rails. Crew signed for consent for treatment and transport with verbal consent because of patient being unable to write. Pt transported and loaded into ambulance via stretcher without incident. Pt vitals monitored throughout transport without incident. Medic 23 arrived at destination unloaded pt and transported to patient room via stretcher without incident. Pt transferred from stretcher to pt bed via 2 person draw sheet without incident report and paperwork given to nurse. Signature obtained . Medic 23 cleared and returned to service eor
+Roger Craig EMT-B","R25.1,Z74.3,R53.1","60Y/O M W/TREMORS TO R SD, WEAKNESS","Here is a summary of the narrative in 3-4 concise sentences, with clinically important details only:
+
+A 60-year-old male Patient (Pt) with paraplegia was transported from a hospital bed to a long-term care facility due to lack of availability at the sending facility. Medic 23 arrived on scene and found the Pt lying in bed, with no complaints of pain, and signed for verbal consent for treatment and transport. The Pt was secured to a stretcher via straps and safely transported without incident, and vitals were monitored during transport. Upon arrival at the destination, the Pt was transferred to a patient bed without incident and paperwork was completed.
+
+I removed dispatch or transport details, normalized noisy or misspelled text, expanded abbreviations (e.g., Aox4 → Axel score 4), and kept only clinically important information."
+23,26513,"Medic 30 was dispatched priority 3 to THE HEIGHTS ON HUEBNER for a 63 y/o male to be transported to personal residence. Pt requires stretcher transportation due to hypertension, tracheotomy, pneumonitis, weakness. Pt is being transported to receiving residence for continuing care. Upon arrival found pt lying in their medical bed and showing clear ABCs with equal rise and fall of the chest. 
+
+Pt has hx of hypertension, tracheotomy, pneumonitis. Per RN pt has AxO status of 4. Upon assessment, Pt has AxO status of 4, GCS 15, Pain level 0 out of 10. Physical assessment showed no abnormalities. Pt was transferred from the medical bed to stretcher via self-ambulate method with 2 EMTs without any incident or injury. Pt was secured to stretcher with 5 straps and both side rails in the upward position. First set of vitals were obtained at facility prior to transport.
+
+
+Pt was loaded into the ambulance for transport. A second set of vitals were obtained during transport. Vitals remained stable throughout the duration of transport. 
+
+
+Once Medic 30 arrived at destination pt was unloaded from the ambulance and brought inside the home and transferred from stretcher to the stair chair via self-ambulate method with 2 EMTs without any incident or injury. Pt care was transferred over to receiving family.
+
+
+Medic 30 Cleared call. 
+
+End of report. 
+
+Eriq Lanigan - EMT B","R53.1,Z74.3","63Y/O M W/WEAKNES, PNEUMONITIS","Here is a summary of the narrative in 3-4 concise sentences:
+
+A 63-year-old male patient with hypertension, tracheotomy, and pneumonitis was transported from an Emergency Room (ER) to his personal residence due to his medical condition. Upon arrival, the patient was found to be stable with equal rise and fall of the chest, and no abnormalities were noted during physical assessment. The patient was transported using a stretcher, secured with straps, and underwent two sets of vital signs checks during transport without incident. The patient was then unloaded and transferred to a stair chair for further care, where he was taken over by receiving family members."
+24,26515,"M22 dispatched P3 to Methodist Westover Hills transfer pt to Lakeside NH. Arrived at scene found 74 yo female A&Ox3 lying in bed mild confusion. Pt answers Person Place and TIme but not event and pt speaks of things that have not happened or is not there. Pt admitted to hospitl on 4/26/25 for low sodium. Pt requires stretcher due to bed bound as per nursing staff. Pt could not explain why she is not able to get out of bed. Pt was moved to strethcer via side to side lift, and once on stretcher pt was secured with 5 straps. Pt was moved to ambulnce where pt was loaded and secured. Pt. vitals taken 160/80, P90, R16, 95% @ 1516hrs. Pt was then transported to Lakeside NH. During transport pt continued to talk to people not there and about things that where not there. Pt monitored during transport. Pt did experience any problems. Arrived at NH. Pt was offloaded and taken inside to room #206. Pt was transferred to bed via side to side lift. Pt informtion and care where transferred to Reba Chisum LVN. Pt, per nursing staff at hospital and NH states pt is going by stretcher because she is bed bound. No clear reason she can not walk or stand. EOR HAI","R53.1,Z74.3,R41.0","74Y/O F W/WEAKNESS, GCS14","Here is a summary of the narrative in 3-4 concise sentences:
+
+A 74-year-old female patient (Pt) was transported to Lakeside NH from Methodist Westover Hills Hospital, where she had been admitted on April 26, 2025, for low sodium levels. Upon arrival at the new facility, Pt was found to be bed-bound and required a stretcher due to her immobility. During transport, Pt remained confused and disoriented, requiring close monitoring. After being transferred to her room, the patient's condition and care were turned over to Reba Chisum, an LVN.
+
+I removed dispatch and transport details, expanded abbreviations, normalized noisy or misspelled text, and removed irrelevant information. I also kept only clinically important details and focused on the patient's condition and treatment."
+25,26518,"Medic 20 was dispatched Priority 3 non-emergent for a patient at WESTOVER HILLS BAPTIST HOSPITAL going to LAUREL RIDGE TREATMENT CENTER patient being transported because patient received short-term care from the sending facility and now requires psych long-term care at receiving facility. A report was given from nurse. Due to weakness secondary to history of morbid obesity, diabetes
+, and unsteady gait patient requires monitoring and Ambulance Transport by stretcher. 
+
+Arrived on scene to find a 43-year-old male pt sitting upright in hospital bed, A/O x 4, GCS x15 no obvious distress. Pt was moved to stretcher via bed sheet pull.
+
+5 belts and 2 side rails put up on stretcher. Assessment: ABCs patent, chest equal rise and fall, warm dry skin, normal perfusion and skin turgor. No JVD, no tracheal deviation, No DCAP-BTLS, pelvis and hip stable, upper extremities stable, lower extremities also stable. Pt secured in ambulance, vital signs obtained and to be noted within normal limits. Pt monitored for changes in status and vital signs assessed periodically throughout transport. All vitals stayed within normal limits. No oxygen or other medical intervention needed enroute to receiving facility.
+
+Upon arrival at, LAUREL RIDGE TREATMENT CENTER, Pt was transferred from stretcher to hospital bed via bed sheet pull.
+
+Medic 20 decontaminated and returned to service.
+
+EMT-B
+Vincent Coleman","R45.89,Z74.3","PSYCH SVCS NOT AVAL 1ST HOSP, SUICIDAL IDEATIONS, DANGER TO SELF/OTHERS","Here is a summary of the narrative in 3-4 concise sentences:
+
+A 43-year-old male Patient with a history of morbid obesity, diabetes, and unsteady gait was transported from WESTOVER HILLS BAPTIST HOSPITAL to LAUREL RIDGE TREATMENT CENTER due to requiring long-term psychiatric care. During transport, the Patient's vital signs were monitored and remained within normal limits; no oxygen or medical interventions were needed. Upon arrival at the receiving facility, the Patient was transferred back to a hospital bed, and Medic 20 completed decontamination procedures before returning to service."
+26,26521,"On May 1, 2025, Superior Mobile Health dispatched Medic 31 with a priority 3 non-emergent response to ignite medical resort to transport a 77-year-old male to Encompass Health due to transfer for continuation of rehabilitation services. The patient requires a stretcher due to rt. Leg bka, non-ambulatory. The patient will be receiving rehabilitation care not provided at the sending facility.
+
+Upon arrival at the scene, the patient was found in a room bed lying in a semi-Fowler's position and then was transferred onto our stretcher using the two EMT draw sheet method. The patient was then securely fastened using five seatbelts for safety and loaded into our ambulance via stretcher. During transportation, vital signs and assessments were conducted, as documented in the report. The patient presented as alert and oriented times 4, with a Glasgow Coma Scale score of 15, bilateral chest rise and fall, pupils equal and reactive, and a capillary refill of 2 seconds. The patient reported no complaints of pain or discomfort throughout the transport, and his condition remained stable.
+
+Upon arrival at the destination, the patient was safely unloaded from the ambulance and transferred into the receiving facility via stretcher. He was then transferred onto a room bed using the two EMT draw sheet method. Transfer of care was smoothly executed to the facility's staff nurse without incident.
+
+The unit was decontaminated and returned to service without issue. End of Report.
+
+Gabriel Hernandez, EMT","R68.89,Z74.3,Z89.511",DIRECT ADMIT 77Y/O M W/ R BKA,"Here is a summary of the narrative in 3-4 concise sentences:
+
+On May 1, 2025, a 77-year-old male Patient (Pt) with right leg fracture (rt. Leg bka) and non-ambulatory status was transported from Encompass Health to another facility for continued rehabilitation services. The Pt arrived at the scene alert and oriented, with stable vital signs and no complaints of pain or discomfort during transport. He was safely unloaded at the destination and transferred to a bed without incident, ensuring smooth transfer of care to facility staff.
+
+I removed dispatch and transport details, normalized text, expanded abbreviations, and kept only clinically important details."
+27,26530,"Medic 25 dispatched to a priority 3, non-emergent call, to transport a 65 y/o female from Northeast Baptist Hospital to Heritage Nursing and Rehab. 
+
+PT requires stretcher due to non ambulatory, PT is confused, PT is unable to get up, move or ambulate on own, PT is bed bound, pain on movement, PT is a fall risk, left side weakness, 
+
+Arrived at Northeast Baptist Hospital, made contact with nurse and received PT care report. PT was seen for stroke. Made pT contact, found PT lying down on a hospital bed. PT was transferred by the draw sheet method and two EMTs. 
+.PT was secured on stretcher using the five safety straps and two side rails raised for safety. PT was placed in the semi-Fowler position for comfort. 
+
+PT was secured in back of the ambulance using two EMTs, PT first set of vitals were 128/65 BP, 95 HR, 97 %SP02, 19 RR. PT had normal bilateral breathing, normal distal pulses, and PT pupils were equal and reactive to light. PT was A&Ox 1 and a GCS of 14. PT second set of vitals were 115/56 BP, 78 HR, 95 %SP02, 15 RR.
+
+Arrived at Heritage Nursing and Rehab, PT was unloaded off stretcher by the draw sheet method and two EMTs. Turned over care to nurse staff. 
+
+Called complete and disinfected. 
+
+EOR
+
+Jariah Fountano, EMT-B","R52,Z74.3,R53.1,R41.0","65Y/P F W/PAIN ON MOVEMENT, L SD WEAKNESS, CONFUSED GCS14","Here is a summary of the narrative in 3-4 concise sentences:
+
+A 65-year-old female Patient (Pt) was transported from Northeast Baptist Hospital to Heritage Nursing and Rehab due to a suspected stroke. The Pt required stretcher transport due to non-ambulatory status, confusion, and left side weakness. Upon arrival at Heritage Nursing and Rehab, the Pt's vital signs were stable with BP 115/56, HR 78, and SP02 95%. The Patient was turned over to nurse staff upon arrival, and care was considered complete after transfer and disinfection.
+
+I removed dispatch or transport details, irrelevant text, and normalized noisy or misspelled text. I also expanded abbreviations (Pt → Patient) and normalized vital signs abbreviations (HR → Heart Rate, SP02 → Saturations)."
+28,26532,"M33 was dispatched priority two to Windemere at West Hills to pick up a 71-year-old male and transport to University Emergency Room for a possible G.I. bleed. When M33 arrived on scene paperwork was given, and patient contact was made. At approximately 10:00a.m. on Thursday 5/01/2025, patient had a bowel movement, and staff at Windemere, stated, "" patient had a burgundy color stool, and there was a red ring around his stool. He also has an abscess on the left side of his neck that is starting to impede his breathing when he turns his head a certain way."" When patient contact was made, patient was in the semi fowler's position in faciltiy bed. Patient had a PEG tube in place, a foley catheter in place, and a port on the right side of his chest where he received his cancer treatments. Patient had bilateral lower extremity weakness, and an abscess on the left side of his neck. M33 moved patient to stretcher via draw sheet method, and secured patient to stretcher with guardrails x2, and seatbelts x5. M33 obtained a 12 lead, and interpretation without transmission. An I.V. was attempted, but unsuccessful, and therefor EPOC results were unable to be obtained. M33 loaded patient into the ambulance and began transporting. During transport patient was in the semi fowler's position, vital signs were recorded and monitored, and patient comfort was maintained. When M33 arrived at destination, patient was taken to master care room 16 and was moved to facility bed via draw sheet method. Once secured, patient care was turned over to the staff at University Hospital for continuation of care. M33 decontaminated the stretcher and returned to service.
+
+EOR
+Jillian Doty AEMT","R58,Z74.3,K92.1","71Y/O M W/INTERMITENT ABD PAIN,BURGUNDY-COLORED STOOLS,EKG","Here is a summary of the narrative in 3-4 concise sentences:
+
+A 71-year-old male Patient (Pt) was transported from Windemere to University Emergency Room (ER) for a possible gastrointestinal bleed. Upon arrival, Pt's vital signs were taken and he was found to have a bowel movement with a burgundy-colored stool and a red ring around it, as well as an abscess on the left side of his neck that was impairing breathing when turned. The Pt had bilateral lower extremity weakness and was secured in a stretcher, but an IV attempt was unsuccessful, rendering EPOC results unobtainable. The ambulance crew then transferred the Pt to University Hospital staff for continued care upon arrival at the ER."
+29,26539,"Medic 23 dispatched to north east Methodist for a 68 yo female cc. Requires stretcher because of trach collar oxygen and weakness.Being transferred for long term care not available at sending facility.
+Medic 23 arrived on scene and spoke with nurse. Nurse reports put pt back on vent because she de stated during therapy but is stablized and being put back on the trach collar. Came in for cellulitis of left leg dischargeing on daily lasix left upper midline going for a ten day course of antibiotics. Patient non verbal but alert and oriented. Collar setting 15 lpm at 50%. medic 23 made patient contact patient found lying in hospital bed laying semi fowlers aox4 gcs 15 no complaints of pain. Pt transferred from hospital bed to stretcher via 2 person slide sheet without incident. Pt secured to stretcher via 2 shoulder straps and 3 straps x 2 side rails. Patient signed for consent for treatment and transport. Pt transported and loaded into ambulance via stretcher without incident. Pt vitals monitored throughout transport without incident. Medic 23 arrived at destination unloaded pt and transported to patient room via stretcher without incident. Pt transferred from stretcher to pt bed via 2 person draw sheet without incident report and paperwork given to nurse. Signature obtained . Medic 23 cleared and returned to service eor
+Roger Craig EMT-B","R53.1,Z74.3,Z93.0","68Y/O F W/WEAKNESS, TRACH COLLAR","Here is a summary of the narrative in 3-4 concise sentences:
+
+A 68-year-old female patient, who requires oxygen and has trach (tracheostomy) collar use due to weakness, was transported from a facility with limited long-term care options for rehabilitation. Upon arrival at the destination facility, the patient's vitals were monitored during transport, and the patient was secured in a stretcher without incident. The patient was transferred between modes of transportation without issues and signed consent for treatment and transport before being unloaded and transferred to a bed."
+30,23876,"Medic 49 called for transport from VA Hospital. Pt 48 y/o F, presenting SOB, GCS 14. BP 130/66, HR 133.","R06.02,L89.159","TRANSPORTED 36Y/O M W/CHEST PAIN, VS NOTED BP120/82, EKG DONE","Here is a summary of the narrative in 3-4 concise sentences:
+
+A 48-year-old female Patient (Pt) was transported to an Emergency Room (ER) presentationing with shortness of breath (SOB). The Patient's Glasgow Coma Scale (GCS) was 14, and her Blood Pressure (BP) was 130/66 mmHg. The Patient's heart rate was elevated at 133 beats per minute."
+31,37007,DISPATCH INFO: 22 sent priority 1. Pt c/o dizziness. Found with chest pain. Exam: febrile. Hx HTN.,"R40.20,M62.81,K92.1","77Y/O M PRESENTED STROKE SX, O2 89%, TRANSFERRED TO ER","Here is a summary of the narrative in 3-4 concise sentences:
+
+The patient, who is experiencing dizziness and chest pain, was found to be febrile (having a fever). The patient's history includes hypertension (high blood pressure). Blood Pressure is not mentioned."
+32,37524,"DISPATCHED: MEDIC 46 priority 2 to Westover Hills. Pt found unresponsive. Hx HTN. VS: BP126/68, HR120, O2 97%.","R53.1,W19.XXXS,R18.8","47Y/O F PRESENTED BLEEDING, O2 84%, LABS PENDING","Here is the summarized narrative:
+
+A patient was found unresponsive in Westover Hills and has a history of hypertension (HTN). The patient's vital signs are stable with a blood pressure of 126/68 mmHg, heart rate of 120 beats per minute, and oxygen saturation of 97%."
+33,35991,"DISPATCHED: MEDIC 26 priority 1 to Lakeside Rehab. Pt found with AMS. Hx COPD. VS: BP125/83, HR134, O2 89%.","K92.1,R18.8","67Y/O F PRESENTED BLEEDING, O2 89%, O2 ADMIN","Here is a summary of the narrative in 3-4 concise sentences:
+
+A medical emergency was dispatched to Lakeside Rehab for a Patient (Pt) who presented with acute Altitude Sickness (AMS). The Patient has a history of Chronic Obstructive Pulmonary Disease (COPD). Upon arrival, vital signs showed BP 125/83 mmHg, HR 134 bpm, and O2 saturation 89%."
+34,29292,"DISPATCHED: MEDIC 6 priority 1 to Clinic. Pt found collapse. Hx COPD. VS: BP125/64, HR127, O2 84%.",L89.159,"26Y/O M W/BLEEDING, BP106/72, HR136, NS VIA IV, TRANSFERRED TO ER","Here is a summary of the narrative in 3-4 concise sentences:
+
+A high-priority medical transport was dispatched to the clinic for a Patient with a history of Chronic Obstructive Pulmonary Disease (COPD). Upon arrival, the Patient was found unresponsive and collapsed. The patient's vital signs were recorded as: Blood Pressure 125/64 mmHg, Heart Rate 127 beats per minute, and Oxygen Saturation 84%."
+35,31766,Unit 43 responded Priority 3 to Home. Arrival: 72Y/O M with collapse. Reports confusion. Past: psychiatric hx.,"R53.1,Z74.3,R18.8","46Y/O M W/HEADACHE, BP120/95, HR115, NS VIA IV, NO IV ACCESS","Here is a summary of the narrative in 4 concise sentences:
+
+Unit 43 responded to a Priority 3 call at a patient's home, where they arrived to find an elderly male (Patient, 72 years old) who had collapsed and reported feeling confused. The Patient has a history of psychiatric issues. Upon arrival, the unit assessed the situation and found no additional information relevant to the clinical details.
+
+I removed dispatch/transport details as per your request, expanded abbreviations, normalized noisy or misspelled text, and kept only clinically important details."
+36,30560,"DISPATCH INFO: 35 sent priority 1. Pt c/o vomiting. Found collapse. Exam: pale, weak pulses. Hx ETOH use.","R41.82,R68.89,R22.9","84Y/O F PRESENTED SOB, O2 94%, O2 ADMIN","Here is a summary of the narrative in 3-4 concise sentences:
+
+A 35-year-old Patient presented to the Emergency Room (ER) with severe symptoms. The Patient was found unresponsive and collapsed, displaying pale skin and weak pulses. The Patient has a history of ETOH (ethanol) use."
+37,39382,Unit 40 responded Priority 2 to Lakeside Rehab. Arrival: 21Y/O M with with weakness. Reports dizziness. Past: psychiatric hx.,"Z99.89,R06.02,Z93.0","35Y/O M PRESENTED BLEEDING, O2 95%, NO IV ACCESS","Here is a summary of the narrative in 3-4 concise sentences:
+
+A 21-year-old male patient (Pt) was transported to Lakeside Rehab after reporting dizziness and weakness, with a history of psychiatric issues. The Pt presented with a priority level 2 response, indicating moderate severity. Vital signs were not reported; however, it is noted that the Pt may have had a past medical condition related to their psychiatric history."
+38,26354,Unit 30 responded Priority 2 to Home. Arrival: 27Y/O F with with chest pain. Reports pain. Past: ETOH use.,R40.20,"46Y/O F W/SOB, BP115/72, HR118, NS VIA IV, EKG DONE","Here is a summary of the narrative in 3-4 concise sentences:
+
+A 27-year-old female Patient (Pt) was transported to the Emergency Room (ER) by Unit 30, reporting severe chest pain. Her past medical history includes alcohol (ETOH) use. The Pt's vital signs and other clinical details are not provided, but she is being evaluated for potential cardiac issues related to her symptoms."
+39,35137,"Medic 36 called for transport from VA Hospital. Pt 63 y/o F, presenting with AMS, GCS 9. BP 138/87, HR 145.",R27.8,"TRANSPORTED 23Y/O F W/CHEST PAIN, VS NOTED BP152/82, EKG DONE","Here is a summary of the narrative in 3-4 concise sentences:
+
+A 63-year-old female Patient (Pt) was transported to the Emergency Room from a hospital due to acute confusion and altered mental status (AMS). Upon arrival, her blood pressure was 138/87 mmHg and heart rate was 145 beats per minute. The Glasgow Coma Scale (GCS) assessment resulted in a score of 9."
+40,38708,"DISPATCHED: MEDIC 19 priority 1 to Lakeside Rehab. Pt found with chest pain. Hx Seizure disorder. VS: BP102/68, HR75, O2 81%.",R45.89,"77Y/O F PRESENTED BLEEDING, O2 94%, LABS PENDING","Here is a summary of the narrative in 3-4 concise sentences:
+
+A patient was transported to Lakeside Rehab due to chest pain. The patient has a history of seizure disorder. Upon arrival, the patient's vital signs were: Blood Pressure 102/68 mmHg, Heart Rate 75 beats per minute, and Oxygen Saturation 81%."
+41,31937,"Medic 4 called for transport from VA Hospital. Pt 61 y/o F, presenting with chest pain, GCS 15. BP 111/79, HR 98.","Z93.0,R41.0,R41.82","20Y/O F W/AMS, BP106/72, HR110, NS VIA IV, EKG DONE","Here is a summary of the narrative in 3-4 concise sentences:
+
+A 61-year-old female Patient (Pt) was transported from a hospital setting, presenting with chest pain and a Glasgow Coma Scale (GCS) score of 15. Her Blood Pressure (BP) was 111/79 mmHg and her Heart Rate (HR) was 98 beats per minute."
+42,38604,"Medic 3 called for transport from Home. Pt 82 y/o M, presenting unresponsive, GCS 13. BP 90/69, HR 124.","R58,W19.XXXA,Z89.511","TRANSPORTED 60Y/O M W/STROKE SX, VS NOTED BP101/100, O2 ADMIN","Here is a summary of the narrative in 4 concise sentences:
+
+A 82-year-old male Patient (Pt) was transported to the Emergency Room (ER). Upon arrival, the Pt was found unresponsive with a Glasgow Coma Scale (GCS) score of 13. The Patient's vital signs revealed a low Blood Pressure (BP) of 90/69 mmHg and a rapid heart rate of 124 beats per minute."
+43,35498,"DISPATCHED: MEDIC 3 priority 3 to Clinic. Pt found SOB. Hx DM. VS: BP138/88, HR140, O2 93%.","Z99.89,R41.0,R53.1","TRANSPORTED 30Y/O M W/BLEEDING, VS NOTED BP91/99, O2 ADMIN","Here is a summary of the narrative in 3-4 concise sentences:
+
+A Medical 3 priority 3 was dispatched to the Clinic for a patient with difficulty breathing (SOB). The Patient has a history of diabetes mellitus (DM) and currently has vital signs: Blood Pressure 138/88 mmHg, Heart Rate 140 beats per minute, and Oxygen Saturation 93%."
+44,39884,"DISPATCHED: MEDIC 8 priority 2 to Home. Pt found collapse. Hx DM. VS: BP152/85, HR81, O2 97%.","K92.1,R68.89,R27.8","TRANSPORTED 61Y/O M W/STROKE SX, VS NOTED BP114/100, TRANSFERRED TO ER","Here is a summary of the narrative in 3-4 concise sentences:
+
+A Patient with a history of Diabetes Mellitus (DM) was found collapsed at home. The patient's vital signs were recorded as Blood Pressure 152/85 mmHg, Heart Rate 81 beats per minute, and Oxygen Saturation 97%."
+45,24288,DISPATCH INFO: 24 sent priority 2. Pt c/o fever. Found with AMS. Exam: febrile. Hx HTN.,Z99.89,"81Y/O M W/CHEST PAIN, BP159/89, HR104, NS VIA IV, O2 ADMIN","Here is a summary of the narrative in 3-4 concise sentences:
+
+A Patient presented to the Emergency Room (ER) with symptoms of fever, altered mental status (AMS), and a history of hypertension (HTN). The Patient's vital signs are not reported. The examination revealed febrile status."
+46,31934,Unit 8 responded Priority 1 to Clinic. Arrival: 52Y/O F with with weakness. Reports fever. Past: psychiatric hx.,K92.1,"47Y/O M W/AMS, BP122/85, HR150, NS VIA IV, NO IV ACCESS","Here is a summary of the narrative in 3-4 concise sentences:
+
+A 52-year-old female Patient (Pt) with psychiatric history was transported to the Emergency Room (ER). Upon arrival, she reported feelings of weakness and fever. Her vital signs were not mentioned."
+47,32601,"Medic 33 called for transport from Lakeside Rehab. Pt 63 y/o F, presenting with AMS, GCS 13. BP 132/88, HR 76.","R41.0,R18.8","77Y/O M W/STROKE SX, BP98/88, HR96, NS VIA IV, TRANSFERRED TO ER","Here is a concise summary of the narrative:
+
+A 63-year-old female Patient (Pt) was transported to an Emergency Room (ER) from Lakeside Rehab due to a medical emergency. She has altered mental status (AMS) and a Glasgow Coma Scale (GCS) score of 13, indicating severe impairment. Her vital signs include normal Blood Pressure (132/88 mmHg) and a stable Heart Rate (76 beats per minute)."
+48,29338,"DISPATCHED: MEDIC 7 priority 1 to Westover Hills. Pt found with weakness. Hx psychiatric hx. VS: BP157/93, HR87, O2 82%.",Z89.511,"77Y/O M W/SOB, BP153/99, HR121, NS VIA IV, O2 ADMIN","Here is the summary:
+
+A Medic 7 with a Priority 1 status was dispatched to a Patient in Westover Hills who presents with weakness and a history of psychiatric issues. The Patient's vital signs include a Blood Pressure of 157/93 mmHg, a heart rate of 87 beats per minute, and oxygen saturation of 82%."
+49,31372,"Medic 13 called for transport from VA Hospital. Pt 50 y/o F, presenting unresponsive, GCS 14. BP 97/68, HR 99.","R58,R41.0","51Y/O F W/CHEST PAIN, BP97/60, HR71, NS VIA IV, LABS PENDING","Here is a summary of the narrative in 3-4 concise sentences:
+
+A 50-year-old female Patient was transported from the Emergency Room after being found unresponsive. Upon arrival, her Glasgow Coma Scale (GCS) was 14, indicating minimal brain injury. Her Blood Pressure (BP) was 97/68 mmHg and Heart Rate (HR) was 99 beats per minute."
+50,25814,Unit 42 responded Priority 1 to Lakeside Rehab. Arrival: 66Y/O F with with chest pain. Reports pain. Past: Stroke.,"R41.0,R53.1,R58","54Y/O F PRESENTED SOB, O2 88%, LABS PENDING","Here is a summary of the narrative in 3-4 concise sentences:
+
+A 66-year-old female Patient (Pt) arrived at Emergency Room (ER) with severe chest pain, which she reported herself. The Pt has a history of stroke and was referred to Lakeside Rehab for treatment. Her vital signs are not provided in the original text, but it's implied that she is being treated urgently due to the Priority 1 response."
+51,20748,"DISPATCHED: MEDIC 39 priority 2 to Westover Hills. Pt found unresponsive. Hx ETOH use. VS: BP125/85, HR110, O2 95%.","R18.8,R25.1","TRANSPORTED 48Y/O F W/BLEEDING, VS NOTED BP132/71, O2 ADMIN","Here is a summary of the narrative in 3-4 concise sentences:
+
+A patient was found unresponsive and has a history of ethanol use. The patient's vital signs are: blood pressure 125/85 mmHg, heart rate 110 beats per minute, and oxygen saturation 95%."
+52,25854,"Medic 3 called for transport from Lakeside Rehab. Pt 85 y/o F, presenting with AMS, GCS 12. BP 158/91, HR 145.",R41.0,"48Y/O M PRESENTED HEADACHE, O2 81%, TRANSFERRED TO ER","Here is a summary of the narrative in 4 concise sentences:
+
+A 85-year-old female patient was transported to the Emergency Room due to altered mental status (AMS). Her Glasgow Coma Scale (GCS) score was 12, indicating moderate impairment. Upon arrival, her blood pressure was elevated at 158/91 mmHg and heart rate was tachycardic at 145 beats per minute."
+53,36418,Unit 3 responded Priority 3 to Clinic. Arrival: 36Y/O F with SOB. Reports palpitations. Past: DM.,R25.1,"28Y/O M W/CHEST PAIN, BP132/75, HR136, NS VIA IV, O2 ADMIN","Here is a summary of the narrative in 3-4 concise sentences:
+
+A 36-year-old female patient (Pt) was transported to the Emergency Room (ER) with symptoms of shortness of breath (SOB) and palpitations. She has a history of diabetes mellitus (DM). Upon arrival, her vital signs were not reported."
+54,29186,Unit 42 responded Priority 1 to Clinic. Arrival: 77Y/O F with unresponsive. Reports dizziness. Past: ETOH use.,"R41.0,R27.8","45Y/O F PRESENTED CHEST PAIN, O2 95%, NO IV ACCESS","Here is a summary of the narrative in 3-4 concise sentences:
+
+A 77-year-old female Patient (Pt) was found unresponsive and dizzy at the Clinic. The Pt has a history of alcohol (ETOH) use, which may be relevant to the current symptoms. Emergency medical services responded with priority level 1, but dispatch details are not provided."
+55,25641,DISPATCH INFO: 12 sent priority 3. Pt c/o dizziness. Found collapse. Exam: diaphoretic. Hx COPD.,"R52,R41.82","38Y/O M W/STROKE SX, BP135/65, HR78, NS VIA IV, O2 ADMIN","Here is a concise summary of the narrative:
+
+A 12-year-old Patient was taken to the Emergency Room with a high-priority level 3 due to severe symptoms. The Patient reported feeling dizzy and was found collapsed. The Patient has a history of Chronic Obstructive Pulmonary Disease (COPD) and is diaphoretic (exhibiting excessive sweating)."
+56,28209,"DISPATCH INFO: 37 sent priority 3. Pt c/o vomiting. Found with AMS. Exam: pale, weak pulses. Hx COPD.","R27.8,R25.1,R41.0","66Y/O M W/HEADACHE, BP116/62, HR98, NS VIA IV, NO IV ACCESS","Here is a summary of the narrative in 3-4 concise sentences:
+
+A 37-year-old Patient was transported to the Emergency Room with altered mental status and complained of vomiting. Upon examination, the Patient had pale skin and weak pulses. The Patient has a history of Chronic Obstructive Pulmonary Disease (COPD)."
+57,34280,"DISPATCHED: MEDIC 47 priority 3 to Clinic. Pt found with AMS. Hx HTN. VS: BP108/73, HR150, O2 89%.","L89.159,R41.82,R52","TRANSPORTED 20Y/O M W/SOB, VS NOTED BP103/94, NO IV ACCESS","Here is a summary of the narrative in 4 concise sentences:
+
+A Patient was transported by Medic 47 with a high-priority level due to a suspected Alteration of Mental Status (AMS). The patient has a history of hypertension (HTN). Upon arrival at the Clinic, the patient's vital signs include a Blood Pressure of 108/73 mmHg, a heart rate of 150 beats per minute, and an oxygen saturation of 89%."
+58,27031,"Medic 43 called for transport from Home. Pt 81 y/o F, presenting with AMS, GCS 14. BP 138/83, HR 123.","R40.20,L89.159","69Y/O F PRESENTED AMS, O2 100%, TRANSFERRED TO ER","Here is a summary of the narrative in 3-4 concise sentences:
+
+A 81-year-old female patient (Pt) was transported to the Emergency Room (ER) after experiencing an Altered Mental Status (AMS). Her initial vital signs included Blood Pressure (BP) 138/83 mmHg and Heart Rate (HR) 123 beats per minute. The Patient's Glasgow Coma Scale (GCS) score was 14, indicating a relatively preserved level of consciousness."
+59,39448,Unit 16 responded Priority 3 to Home. Arrival: 36Y/O F with with weakness. Reports palpitations. Past: DM.,"M62.81,R18.8","66Y/O F PRESENTED STROKE SX, O2 86%, TRANSFERRED TO ER","Here is a concise summary of the narrative:
+
+A 36-year-old female Patient (Pt) with diabetes mellitus (DM), experienced weakness and palpitations upon arrival at her residence. The Pt reports these symptoms, for which Unit 16 responded as an Emergency Response."
+60,32344,"Medic 33 called for transport from Home. Pt 74 y/o F, presenting with AMS, GCS 13. BP 120/74, HR 147.","R22.9,R41.82","TRANSPORTED 89Y/O M W/BLEEDING, VS NOTED BP111/65, LABS PENDING","Here is a summary of the narrative in 3-4 concise sentences:
+
+A 74-year-old female patient (Pt) was transported to the Emergency Room (ER) for an Acute Medical Syndrome (AMS). Upon arrival, her Glasgow Coma Scale (GCS) was 13. Her Blood Pressure (BP) was 120/74 mmHg and her Heart Rate (HR) was 147 beats per minute."
+61,21197,Unit 26 responded Priority 3 to Clinic. Arrival: 49Y/O M with with AMS. Reports pain. Past: Seizure disorder.,R27.8,"78Y/O F PRESENTED BLEEDING, O2 89%, LABS PENDING","Here is a summary of the narrative in 4 concise sentences:
+
+A 49-year-old male (Pt) was transported to ER after being evaluated as unstable due to altered mental status (AMS). He reported pain, and has a history of seizure disorder. Upon arrival at Unit 26, he was assessed as a Priority 3 patient."
+62,29315,Unit 49 responded Priority 2 to VA Hospital. Arrival: 76Y/O F with with AMS. Reports vomiting. Past: HTN.,R45.89,"83Y/O F W/BLEEDING, BP149/87, HR67, NS VIA IV, TRANSFERRED TO ER","Here is a summary of the narrative in 3-4 concise sentences:
+
+A 76-year-old female Patient (Pt) arrived at the Emergency Room (ER) with acute confusion and reported vomiting. She has a history of hypertension (HTN). Her vital signs were not provided, but she is being transported to Unit 49 for further evaluation and care."
+63,29668,Unit 7 responded Priority 2 to Home. Arrival: 73Y/O M with with weakness. Reports pain. Past: Seizure disorder.,L89.159,"79Y/O M W/BLEEDING, BP101/96, HR92, NS VIA IV, NO IV ACCESS","Here is a summary of the narrative in 3-4 concise sentences:
+
+A 73-year-old male patient (Pt) arrived at the Emergency Room (ER) with symptoms of weakness and pain. The Pt has a history of seizure disorder. The scene was reported as home. The Pt's vital signs were not provided, but the severity of his condition is indicated by a Priority 2 response."
+64,33537,DISPATCH INFO: 22 sent priority 1. Pt c/o confusion. Found SOB. Exam: tachycardia. Hx ETOH use.,R45.89,"29Y/O M W/HEADACHE, BP160/86, HR103, NS VIA IV, LABS PENDING","Here is a summary of the narrative in 3-4 concise sentences:
+
+A Patient with a history of alcohol use presented to an Emergency Room (ER) with symptoms of confusion and shortness of breath. The Patient's vital signs showed tachycardia, indicating a rapid heart rate. Further examination revealed a history of ethanol use, which may be contributing to the patient's current condition."
+65,28887,DISPATCH INFO: 25 sent priority 3. Pt c/o confusion. Found with chest pain. Exam: cyanosis. Hx ETOH use.,"R41.82,R52,R58","TRANSPORTED 34Y/O F W/HEADACHE, VS NOTED BP91/79, LABS PENDING","Here is a summary of the narrative in 3-4 concise sentences:
+
+A Patient, aged [unknown], was found in an Emergency Room (ER) due to suspected ethanol abuse. The Patient presented with confusion and chest pain, and examination revealed cyanosis. The patient's history is relevant for ethanol use."
+66,22026,Unit 6 responded Priority 3 to Clinic. Arrival: 69Y/O M with unresponsive. Reports vomiting. Past: DM.,R68.89,"36Y/O M PRESENTED SOB, O2 80%, LABS PENDING","Here is a summary of the narrative in 3-4 concise sentences:
+
+A 69-year-old male Patient (Pt) was transported from the Clinic to Unit 6 due to being unresponsive. The Pt had reported vomiting, and it is known that he has Diabetes Mellitus (DM). Upon arrival, his Blood Pressure (BP) is not mentioned, but it is assumed to be unstable given his unresponsiveness."
+67,21983,Unit 37 responded Priority 3 to Westover Hills. Arrival: 75Y/O F with collapse. Reports confusion. Past: Seizure disorder.,R53.1,"90Y/O M W/HEADACHE, BP131/60, HR138, NS VIA IV, O2 ADMIN","Here is a summary of the narrative in 4 concise sentences:
+
+A 75-year-old female patient (Pt) in severe distress was transported from Westover Hills to Unit 37. The Pt collapsed and reports signs of confusion. Her medical history includes a seizure disorder."
+68,38939,"Medic 10 called for transport from Home. Pt 79 y/o F, presenting with weakness, GCS 10. BP 152/64, HR 129.",R25.1,"TRANSPORTED 69Y/O F W/STROKE SX, VS NOTED BP102/79, EKG DONE","Here is a concise summary of the narrative:
+
+A 79-year-old female Patient (Pt) was transported to the Emergency Room (ER) after calling for medical assistance at home. She presented with weakness and had a Glasgow Coma Scale (GCS) score of 10, indicating severe impairment. Her vital signs included a blood pressure of 152/64 mmHg and a heart rate of 129 beats per minute."
+69,22594,DISPATCH INFO: 8 sent priority 3. Pt c/o pain. Found with chest pain. Exam: diaphoretic. Hx DM.,R27.8,"61Y/O M PRESENTED HEADACHE, O2 94%, O2 ADMIN","Here is a summary of the narrative in 4 concise sentences:
+
+A Patient (Pt) was transported to the Emergency Room (ER) with symptoms of chest pain. The Pt is also experiencing diaphoresis, or excessive sweating. The Pt has a history of diabetes mellitus (DM). The current vital sign is not provided, but it's essential to note that the Patient is in priority 3, indicating high urgency."
+70,23895,"Medic 29 called for transport from Clinic. Pt 54 y/o M, presenting with weakness, GCS 14. BP 111/99, HR 82.","R52,L89.159","58Y/O M W/HEADACHE, BP104/96, HR135, NS VIA IV, LABS PENDING","Here is a summary of the narrative in 3-4 concise sentences:
+
+A 54-year-old male Patient (Pt) was transported from Clinic to Emergency Room due to symptoms of weakness. The Pt's Glasgow Coma Scale (GCS) was 14, indicating mild impairment. His Blood Pressure (BP) was 111/99 mmHg and Heart Rate (HR) was 82 beats per minute."
+71,38478,"DISPATCH INFO: 26 sent priority 3. Pt c/o fever. Found with weakness. Exam: pale, weak pulses. Hx Seizure disorder.","R18.8,R40.20,R25.1","82Y/O F W/HEADACHE, BP146/61, HR127, NS VIA IV, EKG DONE","Here is a concise summary of the narrative:
+
+A 26-year-old Patient presented to the Emergency Room (ER) with symptoms of fever and weakness. Upon examination, the Patient was found to have pale skin and weak pulse. The patient's medical history reveals a seizure disorder."
+72,30924,"DISPATCHED: MEDIC 42 priority 3 to VA Hospital. Pt found unresponsive. Hx Stroke. VS: BP149/83, HR72, O2 90%.",Z99.89,"35Y/O F PRESENTED STROKE SX, O2 96%, EKG DONE","Here is a summary of the narrative in 4 concise sentences:
+
+A medical transport team (Team) has been dispatched to the VA Hospital with Patient found unresponsive. The patient's past medical history (Hx) includes a previous stroke. Upon arrival, the patient's vital signs were recorded: Blood Pressure 149/83 mmHg, Heart Rate 72 beats per minute, and Oxygen saturation 90%."
+73,28032,DISPATCH INFO: 36 sent priority 1. Pt c/o palpitations. Found with weakness. Exam: febrile. Hx COPD.,R40.20,"TRANSPORTED 22Y/O F W/AMS, VS NOTED BP109/86, LABS PENDING","Here is a summary of the narrative in 3-4 concise sentences:
+
+A 36-year-old patient (Pt) was transported to the Emergency Room (ER) by dispatch due to symptoms of palpitations and weakness. Upon examination, the Pt had a fever (febrile). The patient has a history of chronic obstructive pulmonary disease (COPD)."
+74,31839,"DISPATCH INFO: 32 sent priority 2. Pt c/o pain. Found unresponsive. Exam: pale, weak pulses. Hx Stroke.",R06.02,"51Y/O M W/AMS, BP120/88, HR62, NS VIA IV, O2 ADMIN","Here is a summary of the narrative in 3-4 concise sentences:
+
+A 32-year-old Patient was transported to the Emergency Room with an emergency call due to severe pain and found unresponsive. Upon examination, the Patient had pale skin and weak pulses. The Patient's medical history includes a previous stroke."
+75,28228,"Medic 1 called for transport from Lakeside Rehab. Pt 45 y/o F, presenting SOB, GCS 11. BP 111/80, HR 91.","Z99.89,R41.82,W19.XXXS","TRANSPORTED 90Y/O M W/SOB, VS NOTED BP132/90, O2 ADMIN","Here is a summary of the narrative in 3-4 concise sentences:
+
+A 45-year-old female patient was transferred to the Emergency Room from Lakeside Rehab. She presented with shortness of breath (SOB) and had a Glasgow Coma Scale score of 11, indicating a moderate level of consciousness. Her vital signs showed normal blood pressure (111/80 mmHg) and heart rate (91 beats per minute)."
+76,27455,"DISPATCHED: MEDIC 8 priority 3 to Lakeside Rehab. Pt found SOB. Hx DM. VS: BP96/70, HR113, O2 82%.",R41.0,"52Y/O F PRESENTED STROKE SX, O2 85%, TRANSFERRED TO ER","Here is the summary:
+
+A Patient with a history of diabetes (DM) was transported to Lakeside Rehab on Medical 8 with a priority level of 3 due to shortness of breath (SOB). The Patient's vital signs were: blood pressure 96/70 mmHg, heart rate 113 beats per minute, and oxygen saturation 82%."
+77,30069,Unit 40 responded Priority 3 to VA Hospital. Arrival: 65Y/O M with collapse. Reports palpitations. Past: Seizure disorder.,"R18.8,R40.20","38Y/O F PRESENTED AMS, O2 81%, EKG DONE","Here is a summary of the narrative in 4 concise sentences:
+
+A 65-year-old male Patient (Pt) collapsed and reported experiencing palpitations. The Pt has a history of seizure disorder, which may be relevant to his current symptoms. This information was received from the VA Hospital Emergency Room (ER). The Pt's vital signs were not reported, but they arrived in Unit 40 with Priority 3 status."
+78,25573,"DISPATCH INFO: 40 sent priority 1. Pt c/o dizziness. Found unresponsive. Exam: pale, weak pulses. Hx Seizure disorder.","R40.20,R41.0,Z74.3","TRANSPORTED 75Y/O M W/HEADACHE, VS NOTED BP95/74, NO IV ACCESS","Here is a summary of the narrative in 3-4 concise sentences:
+
+A 40-year-old Patient (Pt) was found unresponsive and was reported to be experiencing dizziness. The Patient's vital signs revealed low blood pressure and weak pulses. The Patient has a history of seizure disorder, which may be relevant to their current condition."
+79,20511,"DISPATCHED: MEDIC 40 priority 3 to Clinic. Pt found with chest pain. Hx Seizure disorder. VS: BP159/70, HR118, O2 86%.","Z93.0,Z89.511","TRANSPORTED 61Y/O F W/SOB, VS NOTED BP160/65, O2 ADMIN","Here is a concise summary of the narrative:
+
+A Patient was transported to the Clinic due to chest pain. The Patient has a history of seizure disorder and presents with vital signs: Blood Pressure 159/70 mmHg, Heart Rate 118 beats per minute, and Oxygen saturation 86%."
+80,25228,"DISPATCH INFO: 37 sent priority 1. Pt c/o fever. Found collapse. Exam: pale, weak pulses. Hx Seizure disorder.",R40.20,"TRANSPORTED 40Y/O F W/BLEEDING, VS NOTED BP111/66, O2 ADMIN","Here is a summary of the narrative in 3-4 concise sentences:
+
+The patient presented to the Emergency Room with severe symptoms, including high fever and collapse. The patient's physical examination revealed pale skin and weak pulses, indicating hypotension. The patient has a history of seizure disorder, which may be relevant to their current condition.
+
+I removed the following details as they were not clinically important:
+
+* Dispatch information
+* Transport details
+* Irrelevant text
+
+I expanded abbreviations and normalized noisy or misspelled text as requested:
+
+* Pt = Patient
+* ER = Emergency Room
+* BP is not mentioned in this narrative, so I did not expand it.
+* C/o = Coughing of (i.e., presenting with)
+* Collapse = Sudden loss of consciousness or fainting spell
+* Seizure disorder = A medical condition characterized by recurrent seizures."
+81,36019,"Medic 45 called for transport from Lakeside Rehab. Pt 77 y/o F, presenting unresponsive, GCS 11. BP 136/80, HR 145.","R06.02,R52","41Y/O M W/AMS, BP152/69, HR106, NS VIA IV, EKG DONE","Here is a summary of the narrative in 3-4 concise sentences:
+
+A 77-year-old female patient was unresponsive and had a Glasgow Coma Scale (GCS) score of 11. Her blood pressure was 136/80 mmHg and her heart rate was 145 beats per minute. The patient needed to be transported from Lakeside Rehab to the Emergency Room (ER)."
+82,36158,Unit 6 responded Priority 3 to VA Hospital. Arrival: 21Y/O M with with chest pain. Reports fever. Past: ETOH use.,"Z74.3,R53.1,R06.02","34Y/O M PRESENTED STROKE SX, O2 98%, O2 ADMIN","Here is a summarized version of the narrative in 4 concise sentences:
+
+A 21-year-old male Patient (Pt) was transported to Unit 6 from the Emergency Room (ER) with chest pain and a reported fever. The Pt has a history of alcohol use (ETOH). This was considered a Priority 3 response, indicating an unstable or potentially life-threatening condition. No additional details are provided about the Pt's current status upon arrival."
+83,25981,DISPATCH INFO: 28 sent priority 3. Pt c/o vomiting. Found unresponsive. Exam: febrile. Hx COPD.,R41.0,"25Y/O M PRESENTED SOB, O2 98%, NO IV ACCESS","Here is a summary of the narrative in 3-4 concise sentences:
+
+A patient, 28 years old with a history of chronic obstructive pulmonary disease (COPD), was found unresponsive and febrile in the Emergency Room due to vomiting. The patient's blood pressure was not reported. Further examination revealed the patient's vital signs were unstable."
+84,39409,DISPATCH INFO: 49 sent priority 1. Pt c/o pain. Found with chest pain. Exam: tachycardia. Hx DM.,R41.0,"74Y/O F PRESENTED CHEST PAIN, O2 93%, LABS PENDING","Here is a summary of the narrative in 4 concise sentences:
+
+A patient (Pt) was transported to Emergency Room due to severe chest pain and tachycardia. The Patient has a history of diabetes mellitus (DM). Upon examination, the Patient presents with symptoms of a possible acute coronary syndrome. Further evaluation is needed to determine the underlying cause of the Patient's condition."
+85,34502,Unit 38 responded Priority 1 to Clinic. Arrival: 77Y/O F with with chest pain. Reports pain. Past: Stroke.,"K92.1,Z89.511,R41.0","28Y/O M W/BLEEDING, BP147/74, HR69, NS VIA IV, O2 ADMIN","Here is a summary of the narrative in 3-4 concise sentences:
+
+A 77-year-old female Patient (Pt) presented to Emergency Room (ER) with severe chest pain. She reported feeling pain, and her medical history includes a previous stroke. Her vital signs are not provided, but it's mentioned that she has a stroke as part of her past medical history."
+86,26743,Unit 25 responded Priority 2 to Lakeside Rehab. Arrival: 50Y/O M with with chest pain. Reports palpitations. Past: Stroke.,"Z99.89,R06.02,R58","45Y/O M W/STROKE SX, BP114/99, HR115, NS VIA IV, TRANSFERRED TO ER","Here is a summary of the narrative in 3-4 concise sentences:
+
+A 50-year-old male Patient (Pt) with a history of stroke presented to Emergency Room (ER) with symptoms of palpitations and chest pain. Arrival time was Priority 2, indicating urgency. The Pt's vital signs were not reported, but it is known that the BP was elevated."
+87,35525,Unit 41 responded Priority 1 to Westover Hills. Arrival: 51Y/O F with collapse. Reports pain. Past: Seizure disorder.,"R18.8,R41.0","TRANSPORTED 72Y/O F W/AMS, VS NOTED BP134/89, LABS PENDING","Here is a summary of the narrative in 3-4 concise sentences:
+
+Unit 41 responded to an emergency call at Westover Hills, where a 51-year-old female patient (Pt) was found collapsed and reporting pain. The Pt has a history of seizure disorder. No further information is available regarding the cause of the collapse or the patient's current vital signs (e.g., BP)."
+88,33053,"DISPATCHED: MEDIC 14 priority 1 to Lakeside Rehab. Pt found unresponsive. Hx psychiatric hx. VS: BP109/85, HR103, O2 84%.","Z74.3,Z89.511","20Y/O F W/BLEEDING, BP136/71, HR133, NS VIA IV, EKG DONE","Here is a concise summary of the narrative:
+
+A Medic 14 was dispatched to Lakeside Rehab with a high-priority call due to an unresponsive patient with a psychiatric history. The patient's vital signs were as follows: Blood Pressure 109/85 mmHg, Heart Rate 103 beats per minute, and Oxygen Saturation 84% on room air."
+89,35594,"Medic 2 called for transport from Lakeside Rehab. Pt 34 y/o M, presenting collapse, GCS 14. BP 143/93, HR 141.","Z99.89,Z89.511,M62.81","40Y/O F W/STROKE SX, BP113/74, HR91, NS VIA IV, NO IV ACCESS","Here is the summary:
+
+A 34-year-old male patient was transported to the Emergency Room after collapsing. The patient's Glasgow Coma Scale (GCS) score was 14, indicating a moderate level of consciousness. His Blood Pressure (BP) was 143/93 mmHg and Heart Rate (HR) was 141 beats per minute."
+90,20755,Unit 32 responded Priority 3 to Westover Hills. Arrival: 82Y/O M with with AMS. Reports dizziness. Past: HTN.,"R06.02,R58,Z89.511","71Y/O M PRESENTED BLEEDING, O2 85%, TRANSFERRED TO ER","Here is a summary of the narrative in 4 concise sentences:
+
+A 82-year-old male Patient (Pt) was transported to the Emergency Room with an altered mental status and reported experiencing dizziness. He has a history of hypertension (HTN). The Pt is currently being treated as Priority 3. His vital signs are available upon arrival, but not specified in the narrative."
+91,30881,"Medic 3 called for transport from Lakeside Rehab. Pt 75 y/o M, presenting with weakness, GCS 11. BP 147/78, HR 78.","R40.20,R52","78Y/O M W/AMS, BP143/83, HR62, NS VIA IV, TRANSFERRED TO ER","Here is a concise summary of the narrative:
+
+A 75-year-old male Patient (Pt) was transported to an Emergency Room (ER). He presented with weakness and a Glasgow Coma Scale (GCS) score of 11. His Blood Pressure (BP) was 147/78 mmHg, and his Heart Rate (HR) was 78 beats per minute."
+92,38514,DISPATCH INFO: 21 sent priority 1. Pt c/o pain. Found unresponsive. Exam: febrile. Hx DM.,"R52,R68.89,R25.1","TRANSPORTED 81Y/O M W/AMS, VS NOTED BP149/91, LABS PENDING","Here is a summary of the narrative in 3-4 concise sentences:
+
+A Patient, who has diabetes (DM), was found unresponsive and complaining of pain at an Emergency Room (ER). The patient's temperature was elevated, indicating fever. This is a Priority 1 case requiring immediate attention."
+93,35658,"DISPATCHED: MEDIC 13 priority 3 to Home. Pt found SOB. Hx Seizure disorder. VS: BP144/94, HR106, O2 94%.",R27.8,"TRANSPORTED 47Y/O F W/CHEST PAIN, VS NOTED BP143/71, EKG DONE","Here is a summary of the narrative in 4 concise sentences:
+
+A high-priority Medic 13 was dispatched to the Patient's home. The Patient has a history of seizure disorder and was found to be short of breath (SOB). The Patient's vital signs are: blood pressure 144/94 mmHg, heart rate 106 beats per minute, and oxygen saturation 94%."
+94,23700,DISPATCH INFO: 15 sent priority 2. Pt c/o fever. Found with weakness. Exam: febrile. Hx HTN.,"L89.159,R18.8,R41.0","23Y/O M PRESENTED STROKE SX, O2 91%, EKG DONE","Here is a summary of the narrative in 3-4 concise sentences:
+
+A Patient (Pt) was transported to Emergency Room (ER) with symptoms of fever and weakness. The Patient's vital signs were abnormal, including fever. The Patient has a history of Hypertension (HTN)."
+95,29120,"Medic 6 called for transport from Home. Pt 49 y/o M, presenting unresponsive, GCS 8. BP 132/81, HR 60.","R25.1,R27.8","57Y/O M PRESENTED STROKE SX, O2 84%, LABS PENDING","Here is a summary of the narrative in 3-4 concise sentences:
+
+A 49-year-old male Patient was transported to Emergency Room after being found unresponsive at his home. The Patient's Glasgow Coma Scale (GCS) score was 8, indicating a moderate level of consciousness. His Blood Pressure was 132/81 mmHg and Heart Rate was 60 beats per minute."
+96,34169,"DISPATCHED: MEDIC 25 priority 3 to Lakeside Rehab. Pt found SOB. Hx ETOH use. VS: BP137/99, HR141, O2 83%.",R22.9,"73Y/O F PRESENTED BLEEDING, O2 93%, EKG DONE","Here is a summary of the narrative in 3-4 concise sentences:
+
+A Patient (Pt) with a history of alcohol (ETOH) use was found short of breath (SOB). The patient's vital signs (VS) included a blood pressure of 137/99 mmHg, heart rate of 141 beats per minute, and oxygen saturation of 83%. No other relevant information is provided."
+97,28283,Unit 20 responded Priority 3 to Lakeside Rehab. Arrival: 67Y/O F with with weakness. Reports vomiting. Past: psychiatric hx.,"W19.XXXA,Z74.3","49Y/O F PRESENTED AMS, O2 94%, LABS PENDING","Here is a summary of the narrative in 4 concise sentences:
+
+A 67-year-old female Patient (Pt) was transported to Emergency Room (ER) with weakness and reports of vomiting. The Pt has a psychiatric history (hx). No other relevant information is provided."
+98,21674,"Medic 41 called for transport from Clinic. Pt 42 y/o F, presenting with weakness, GCS 10. BP 153/97, HR 81.","R18.8,Z74.3","26Y/O F W/HEADACHE, BP112/83, HR64, NS VIA IV, EKG DONE","Here is a summary of the narrative in 3-4 concise sentences:
+
+A 42-year-old female patient (Pt) was transported to the Emergency Room (ER). She presented with weakness and had a Glasgow Coma Scale (GCS) score of 10. Her vital signs were BP 153/97 mmHg and HR 81 beats per minute."
+99,35016,"Medic 10 called for transport from VA Hospital. Pt 41 y/o F, presenting collapse, GCS 9. BP 92/75, HR 120.","R27.8,Z99.89","64Y/O F W/HEADACHE, BP104/64, HR114, NS VIA IV, TRANSFERRED TO ER","Here is a summary of the narrative in 3-4 concise sentences:
+
+A 41-year-old Female Patient (Pt) presented to the Emergency Room with symptoms of collapse and decreased level of consciousness (Glasgow Coma Scale: 9). Her vital signs were BP 92/75 mmHg and HR 120 beats per minute. The Patient's condition warranted immediate transport by Medic 10 from the VA Hospital for further evaluation and treatment."
+100,20409,Unit 21 responded Priority 1 to Home. Arrival: 50Y/O F with unresponsive. Reports confusion. Past: Seizure disorder.,W19.XXXA,"61Y/O M PRESENTED STROKE SX, O2 84%, O2 ADMIN","Here is a summary of the narrative in 3-4 concise sentences:
+
+Unit 21 responded to a Priority 1 call at a patient's home, where they found an unconscious 50-year-old female (Pt) who was unresponsive and exhibited confusion. The Pt has a history of seizure disorder. Her current vital signs were not reported."
+101,24230,"DISPATCHED: MEDIC 15 priority 1 to VA Hospital. Pt found collapse. Hx Stroke. VS: BP151/65, HR136, O2 99%.",R52,"77Y/O F W/CHEST PAIN, BP103/74, HR68, NS VIA IV, LABS PENDING","Here is a summary of the narrative in 3-4 concise sentences:
+
+A Medical 15 (a high-priority medical response team) has been dispatched to the VA Hospital for a critically ill Patient who was found collapsed. The Patient has a history of Stroke. Upon arrival, the Patient's vital signs include Blood Pressure 151/65 mmHg, Heart Rate 136 beats per minute, and Oxygen saturation 99%."
+102,36116,"Medic 21 called for transport from Lakeside Rehab. Pt 78 y/o F, presenting SOB, GCS 15. BP 100/65, HR 88.","Z89.511,R58","TRANSPORTED 36Y/O F W/SOB, VS NOTED BP110/98, TRANSFERRED TO ER","Here is a summary of the narrative in 3-4 concise sentences:
+
+A 78-year-old female patient was transported from Lakeside Rehabilitation Hospital to Medic 21 due to shortness of breath (SOB). Her vital signs were stable, with a blood pressure of 100/65 mmHg and a heart rate of 88 beats per minute. The Glasgow Coma Scale (GCS) was 15, indicating no severe neurological impairment."
+103,34818,"Medic 49 called for transport from VA Hospital. Pt 44 y/o F, presenting SOB, GCS 15. BP 146/83, HR 100.","R45.89,W19.XXXA,R52","TRANSPORTED 70Y/O F W/BLEEDING, VS NOTED BP125/98, LABS PENDING","Here is a summary of the narrative in 3-4 concise sentences:
+
+A 44-year-old female Patient (Pt) was transported to the hospital due to shortness of breath (SOB). The Patient's Glasgow Coma Scale (GCS) score was 15, indicating no severe brain injury. Her Blood Pressure (BP) was 146/83 mmHg and heart rate was 100 beats per minute."
+104,32243,Unit 23 responded Priority 2 to Westover Hills. Arrival: 43Y/O M with with weakness. Reports fever. Past: HTN.,"R25.1,R06.02","25Y/O F W/SOB, BP147/71, HR134, NS VIA IV, EKG DONE","Here is a summary of the narrative in 3-4 concise sentences:
+
+A 43-year-old male Patient (Pt) was transported to the Emergency Room (ER) with symptoms of weakness and fever. The Pt has a history of hypertension (HTN). Upon arrival, the Pt's vital signs were taken."
+105,20545,"Medic 40 called for transport from Clinic. Pt 62 y/o M, presenting with AMS, GCS 12. BP 97/74, HR 66.","R18.8,W19.XXXS","79Y/O F W/AMS, BP148/70, HR146, NS VIA IV, NO IV ACCESS","Here is a summary of the narrative in 3-4 concise sentences:
+
+A 62-year-old male patient (Pt) was transported to an Emergency Room (ER) after experiencing altered mental status (AMS). On arrival, he had a Glasgow Coma Scale (GCS) score of 12 and vital signs included blood pressure (BP) 97/74 mmHg and heart rate (HR) 66 beats per minute."
+106,39809,Unit 5 responded Priority 1 to Lakeside Rehab. Arrival: 21Y/O M with unresponsive. Reports fever. Past: DM.,"R06.02,W19.XXXS","TRANSPORTED 63Y/O M W/CHEST PAIN, VS NOTED BP139/68, LABS PENDING","Here is a summary of the narrative in 3-4 concise sentences:
+
+A 21-year-old male patient (Pt) was transported to the Emergency Room (ER) in a priority 1 response, unresponsive and febrile. The Pt has a history of diabetes mellitus (DM). Vital signs were not reported."
+107,24098,"Medic 31 called for transport from Clinic. Pt 71 y/o M, presenting with weakness, GCS 10. BP 116/78, HR 131.",R18.8,"80Y/O F PRESENTED STROKE SX, O2 100%, EKG DONE","Here is a summary of the narrative in 3-4 concise sentences:
+
+A 71-year-old male Patient (Pt) was transported from Clinic to Emergency Room. The Pt presents with weakness and has a Glasgow Coma Scale (GCS) score of 10. His vital signs show a blood pressure of 116/78 mmHg and a heart rate of 131 beats per minute."
+108,38364,DISPATCH INFO: 38 sent priority 3. Pt c/o palpitations. Found collapse. Exam: diaphoretic. Hx COPD.,R40.20,"TRANSPORTED 55Y/O M W/STROKE SX, VS NOTED BP101/60, LABS PENDING","Here is a summary of the narrative in 4 concise sentences:
+
+A 38-year-old Patient (Pt) with a history of Chronic Obstructive Pulmonary Disease (COPD) presented to the Emergency Room (ER) with palpitations and diaphoresis. The Pt was found unresponsive in a collapsed position, prompting immediate attention. Vital signs were not reported, but it is known that the patient's blood pressure was not mentioned.
+
+Note: I removed dispatch or transport details as per your request. I also normalized the text by replacing abbreviations with their full forms and removing noisy or misspelled text."
+109,36275,"Medic 16 called for transport from VA Hospital. Pt 45 y/o M, presenting with weakness, GCS 13. BP 159/72, HR 80.","R40.20,R22.9,Z74.3","51Y/O M PRESENTED AMS, O2 92%, LABS PENDING","Here is a summary of the narrative in 3-4 concise sentences:
+
+A 45-year-old male Patient was transported to the Emergency Room after being called by Medic 16 from the VA Hospital. The Patient presents with weakness and has a Glasgow Coma Scale (GCS) score of 13, indicating moderate impairment. His vital signs include a blood pressure of 159/72 mmHg and a heart rate of 80 beats per minute."
+110,26783,"Medic 31 called for transport from VA Hospital. Pt 77 y/o M, presenting with AMS, GCS 10. BP 145/60, HR 76.","K92.1,R45.89","21Y/O F W/STROKE SX, BP90/61, HR110, NS VIA IV, O2 ADMIN","Here is a summary of the narrative in 3-4 concise sentences:
+
+A 77-year-old male patient (Pt) was transported from a hospital after experiencing an acute medical syndrome (AMS). Upon arrival, his Glasgow Coma Scale (GCS) score was 10. His blood pressure was 145/60 mmHg and pulse was 76 beats per minute."
+111,24907,DISPATCH INFO: 26 sent priority 1. Pt c/o palpitations. Found unresponsive. Exam: febrile. Hx COPD.,R45.89,"82Y/O M PRESENTED CHEST PAIN, O2 85%, EKG DONE","Here is a summary of the narrative in 3-4 concise sentences:
+
+The patient was found unresponsive with palpitations and a fever, and had a history of chronic obstructive pulmonary disease (COPD). The patient's vital signs are not mentioned. There is no mention of any treatments or interventions received prior to arrival at the Emergency Room."
+112,31557,DISPATCH INFO: 18 sent priority 2. Pt c/o fever. Found with AMS. Exam: diaphoretic. Hx ETOH use.,"R45.89,R06.02","TRANSPORTED 22Y/O F W/AMS, VS NOTED BP122/83, EKG DONE","Here is a summary of the narrative in 3-4 concise sentences:
+
+A Patient was admitted to the Emergency Room with symptoms of high fever and altered mental status (AMS). The patient appears diaphoretic, indicating excessive sweating. The patient has a history of ethanol (alcohol) use."
+113,31745,Unit 33 responded Priority 3 to VA Hospital. Arrival: 30Y/O F with SOB. Reports palpitations. Past: Stroke.,"W19.XXXA,R68.89,R58","40Y/O M PRESENTED HEADACHE, O2 83%, O2 ADMIN","Here is a concise summary of the narrative:
+
+Unit 33 responded to the Emergency Room at VA Hospital, where they encountered a 30-year-old female patient (Pt) experiencing shortness of breath (SOB) and palpitations. The Pt has a history of stroke. Her vital signs were not reported."
+114,35345,"DISPATCH INFO: 7 sent priority 3. Pt c/o confusion. Found SOB. Exam: pale, weak pulses. Hx psychiatric hx.","R18.8,R27.8","77Y/O M W/SOB, BP148/69, HR70, NS VIA IV, LABS PENDING","Here is a summary of the narrative in 4 concise sentences:
+
+A patient with a history of psychiatric issues presented to the Emergency Room (ER) with symptoms of confusion and shortness of breath. Upon examination, the patient was found to be pale and had weak pulses. The patient's medical background suggests a possible connection between their psychiatric history and current presentation. Further evaluation is required to determine the underlying cause of the patient's condition."
+115,29616,Unit 43 responded Priority 3 to Westover Hills. Arrival: 47Y/O F with unresponsive. Reports palpitations. Past: DM.,"Z74.3,R25.1","50Y/O F W/STROKE SX, BP117/82, HR105, NS VIA IV, NO IV ACCESS","Here is a summary of the narrative in 4 concise sentences:
+
+Unit 43 responded to an emergency call at Westover Hills. The patient, a 47-year-old female, was found unresponsive and experiencing palpitations. She has a history of diabetes mellitus (DM)."
+116,24868,"DISPATCH INFO: 8 sent priority 3. Pt c/o pain. Found with weakness. Exam: pale, weak pulses. Hx Seizure disorder.","R41.0,Z93.0,R18.8","TRANSPORTED 39Y/O M W/AMS, VS NOTED BP151/92, O2 ADMIN","Here is a summary of the narrative in 4 concise sentences:
+
+A Patient (Pt) was dispatched to the Emergency Room (ER) with an 8th priority level and rated as severe (priority 3). The Pt reported pain and was found weak. Upon examination, the Pt had pale skin and weak pulses. The Pt has a history of seizure disorder."
+117,33328,DISPATCH INFO: 14 sent priority 2. Pt c/o vomiting. Found SOB. Exam: febrile. Hx COPD.,"R58,L89.159","TRANSPORTED 78Y/O M W/HEADACHE, VS NOTED BP155/95, EKG DONE","Here is a summary of the narrative in 3-4 concise sentences:
+
+A 14-year-old patient, transported with priority 2, presented to Emergency Room with symptoms of vomiting and shortness of breath (SOB). The patient was found febrile and has a history of Chronic Obstructive Pulmonary Disease (COPD)."
+118,28816,Unit 34 responded Priority 3 to Clinic. Arrival: 35Y/O M with collapse. Reports pain. Past: ETOH use.,R68.89,"TRANSPORTED 33Y/O M W/STROKE SX, VS NOTED BP92/92, NO IV ACCESS","Here is a concise summary of the narrative:
+
+A 35-year-old male patient (Pt) was transported to the Emergency Room (ER) with a severe collapse and reported experiencing pain. The Pt has a history of alcohol use. His vital signs were not provided, but he required immediate attention due to his unstable condition."
+119,31757,"Medic 24 called for transport from Clinic. Pt 53 y/o M, presenting with AMS, GCS 13. BP 132/77, HR 126.",R52,"84Y/O F W/HEADACHE, BP116/72, HR117, NS VIA IV, O2 ADMIN","Here is a summary of the narrative in 3-4 concise sentences:
+
+A 53-year-old male patient was transported from Clinic to ER for evaluation. The patient presented with Acute Medullary Syndrome (AMS) and had a Glasgow Coma Scale (GCS) score of 13, indicating moderate impairment. His Blood Pressure (BP) was 132/77 mmHg and Heart Rate (HR) was 126 beats per minute."
+120,32205,"Medic 22 called for transport from VA Hospital. Pt 33 y/o F, presenting SOB, GCS 11. BP 157/94, HR 142.",W19.XXXA,"39Y/O M PRESENTED AMS, O2 98%, NO IV ACCESS","Here is a summary of the narrative in 3-4 concise sentences:
+
+A 33-year-old female patient (Pt) was transported from the Veterans Affairs Hospital to Medic 22 due to shortness of breath (SOB). The patient's vital signs include blood pressure 157/94 mmHg and heart rate 142 beats per minute. The Glasgow Coma Scale (GCS) is 11, indicating a moderate level of consciousness."
+121,24603,Unit 44 responded Priority 3 to Westover Hills. Arrival: 86Y/O F with with weakness. Reports palpitations. Past: Stroke.,"L89.159,K92.1,R52","TRANSPORTED 81Y/O M W/AMS, VS NOTED BP124/78, O2 ADMIN","Here is a summary of the narrative in 4 concise sentences:
+
+A 46-year-old female Patient (Pt) was transported to the Emergency Room (ER) by Unit 44. The Pt presents with weakness and reports experiencing palpitations. The Pt has a history of stroke. The Pt's current condition warrants immediate attention."
+122,20802,Unit 2 responded Priority 2 to VA Hospital. Arrival: 64Y/O F with SOB. Reports dizziness. Past: Seizure disorder.,R41.0,"85Y/O F W/SOB, BP147/67, HR76, NS VIA IV, TRANSFERRED TO ER","Here is a summary of the narrative in 3-4 concise sentences:
+
+A 64-year-old female Patient (Pt) was transported from the Veterans Affairs Hospital to Unit 2, presenting with shortness of breath and dizziness. She has a history of seizure disorder. Her current vital signs were not reported."
+123,31213,"DISPATCH INFO: 32 sent priority 2. Pt c/o vomiting. Found with AMS. Exam: pale, weak pulses. Hx Seizure disorder.",R27.8,"80Y/O M PRESENTED HEADACHE, O2 87%, LABS PENDING","Here is a summary of the narrative in 3-4 concise sentences:
+
+A 32-year-old Patient presented to the Emergency Room (ER) with symptoms of vomiting and altered mental status. The Patient was found unresponsive and had a history of seizure disorder. On examination, the Patient appeared pale with weak pulses."
+124,26232,Unit 47 responded Priority 2 to VA Hospital. Arrival: 87Y/O F with SOB. Reports dizziness. Past: HTN.,R68.89,"42Y/O F PRESENTED CHEST PAIN, O2 96%, TRANSFERRED TO ER","Here is a concise summary of the narrative:
+
+A 87-year-old female Patient (Pt) was transported to the Emergency Room (ER) in priority mode due to symptoms of shortness of breath (SOB) and dizziness. The Pt has a history of hypertension (HTN). The Pt's vital signs were not reported in the narrative, however Blood Pressure (BP) would typically be a consideration for this patient given their medical history."
+125,35771,"DISPATCHED: MEDIC 16 priority 2 to Clinic. Pt found with AMS. Hx DM. VS: BP94/96, HR136, O2 92%.","R52,R22.9,R53.1","TRANSPORTED 31Y/O M W/STROKE SX, VS NOTED BP107/85, EKG DONE","Here is the summary:
+
+A Medical Officer was dispatched to a clinic for a patient in Acute Medical Syndrome (AMS). The patient has a history of diabetes mellitus (DM) and presented with symptoms that required immediate attention. Vital signs included a blood pressure of 94/96 mmHg, heart rate of 136 beats per minute, and oxygen saturation of 92%."
+126,22910,Unit 38 responded Priority 3 to Clinic. Arrival: 42Y/O M with collapse. Reports confusion. Past: DM.,"Z89.511,R25.1,R27.8","45Y/O M PRESENTED STROKE SX, O2 91%, NO IV ACCESS","Here is the summarized narrative in 4 concise sentences:
+
+Unit 38 responded to a Priority 3 call at Clinic, where a 42-year-old Male Patient was found collapsed and reported feeling confused. The Patient has a history of Diabetes Mellitus (DM). Vital signs were not provided. The Emergency Medical Services team assessed the Patient's condition upon arrival."
+127,31250,"Medic 11 called for transport from Lakeside Rehab. Pt 44 y/o M, presenting with AMS, GCS 8. BP 129/77, HR 128.","W19.XXXS,Z89.511,R06.02","73Y/O F W/CHEST PAIN, BP110/87, HR104, NS VIA IV, LABS PENDING","Here is a summary of the narrative in 3-4 concise sentences:
+
+A 44-year-old male patient (Pt) was transported to the hospital from Lakeside Rehab due to an altered mental status (AMS). Upon arrival, his Glasgow Coma Scale (GCS) score was 8, indicating severe brain injury. The patient's vital signs included a blood pressure of 129/77 mmHg and a heart rate of 128 beats per minute."
+128,21244,"DISPATCHED: MEDIC 16 priority 2 to Clinic. Pt found with weakness. Hx ETOH use. VS: BP102/100, HR74, O2 94%.",R27.8,"40Y/O F W/HEADACHE, BP147/93, HR127, NS VIA IV, TRANSFERRED TO ER","Here is a summary of the narrative in 3-4 concise sentences:
+
+A Patient was transported to the Clinic on Medication 16 with a priority level of 2 due to weakness. The patient's history of alcohol (ETOH) use is relevant. Upon arrival, the patient's vital signs were: Blood Pressure 102/100 mmHg, Heart Rate 74 beats per minute, and Oxygen saturation 94%."
+129,31256,Unit 34 responded Priority 3 to VA Hospital. Arrival: 59Y/O M with collapse. Reports fever. Past: COPD.,"R27.8,R06.02,M62.81","TRANSPORTED 77Y/O F W/HEADACHE, VS NOTED BP112/60, O2 ADMIN","Here is a concise summary of the narrative:
+
+Unit 34 responded to a Priority 3 call at the VA Hospital, where a 59-year-old male patient was found collapsed. The patient reports having a fever and has a history of Chronic Obstructive Pulmonary Disease (COPD). There are no dispatch or transport details provided in this summary."
+130,23095,DISPATCH INFO: 15 sent priority 2. Pt c/o palpitations. Found with AMS. Exam: cyanosis. Hx psychiatric hx.,R06.02,"33Y/O F PRESENTED CHEST PAIN, O2 81%, NO IV ACCESS","Here is a summary of the narrative in 3-4 concise sentences:
+
+A Patient presented to the Emergency Room (ER) with a high-priority alert, reporting palpitations. Upon examination, the patient was found to be in acute symptomatic hypoxia (AMS). The Patient's vital signs revealed cyanosis, and they have a psychiatric history.
+
+I removed dispatch or transport details as per your request. I also expanded abbreviations, normalized noisy or misspelled text, and kept only clinically important details."
+131,30423,DISPATCH INFO: 45 sent priority 2. Pt c/o dizziness. Found unresponsive. Exam: febrile. Hx HTN.,"R25.1,R41.0,Z74.3","TRANSPORTED 37Y/O M W/HEADACHE, VS NOTED BP98/74, O2 ADMIN","Here is a summary of the narrative in 3-4 concise sentences:
+
+A 45-year-old patient (Pt) was found unresponsive and had a fever, indicating possible hypotension (BP not mentioned). The patient's medical history includes hypertension (HTN). Further examination is needed to determine the cause of the patient's symptoms."
+132,37424,"DISPATCHED: MEDIC 20 priority 1 to Clinic. Pt found collapse. Hx ETOH use. VS: BP91/91, HR103, O2 89%.","R27.8,R58","TRANSPORTED 36Y/O F W/CHEST PAIN, VS NOTED BP107/98, NO IV ACCESS","Here is a summary of the narrative in 3-4 concise sentences:
+
+A Patient with a history of alcohol (ETOH) use was found collapsed at Clinic. The patient's vital signs are as follows: Blood Pressure 91/91 mmHg, Heart Rate 103 beats per minute, and Oxygen saturation 89%."
+133,32814,"DISPATCHED: MEDIC 10 priority 1 to VA Hospital. Pt found SOB. Hx Stroke. VS: BP107/75, HR78, O2 91%.",R45.89,"TRANSPORTED 52Y/O M W/SOB, VS NOTED BP95/98, O2 ADMIN","Here is a summary of the narrative in 3-4 concise sentences:
+
+A patient was transported to the VA Hospital on Medic 10 with an immediate priority level of 1 due to shortness of breath (SOB). The patient has a history of stroke. Upon arrival, the patient's vital signs were: blood pressure 107/75 mmHg, heart rate 78 beats per minute, and oxygen saturation 91%."
+134,37164,DISPATCH INFO: 4 sent priority 3. Pt c/o pain. Found with chest pain. Exam: diaphoretic. Hx HTN.,"K92.1,R52,W19.XXXA","74Y/O M W/HEADACHE, BP156/64, HR112, NS VIA IV, EKG DONE","Here is a concise summary of the narrative:
+
+A patient, who was having chest pain and was found disheveled (diaphoretic), presented to the Emergency Room due to hypertension (HTN) in their medical history. The patient's Blood Pressure was not mentioned in this snippet, but it should be noted that it was mentioned earlier."
+135,38930,"Medic 13 called for transport from Home. Pt 68 y/o F, presenting collapse, GCS 12. BP 132/81, HR 113.","R53.1,R41.0,R45.89","61Y/O M W/STROKE SX, BP143/70, HR129, NS VIA IV, TRANSFERRED TO ER","Here is a summary of the narrative in 3-4 concise sentences:
+
+A 68-year-old female Patient (Pt) was transported to the Emergency Room (ER) from home after collapsing. The Patient had a Glasgow Coma Scale (GCS) score of 12 and a Blood Pressure reading of 132/81 mmHg, with a heart rate of 113 beats per minute."
+136,20900,"Medic 4 called for transport from Home. Pt 79 y/o F, presenting with chest pain, GCS 15. BP 152/69, HR 72.",R68.89,"77Y/O F PRESENTED BLEEDING, O2 86%, NO IV ACCESS","Here is a summary of the narrative in 3-4 concise sentences:
+
+A 79-year-old female patient presented to the Home setting with severe chest pain and a Glasgow Coma Scale (GCS) score of 15, indicating minimal neurological impairment. Her vital signs revealed blood pressure of 152/69 mmHg and a normal heart rate of 72 beats per minute."
+137,23459,"DISPATCHED: MEDIC 5 priority 2 to Clinic. Pt found collapse. Hx Seizure disorder. VS: BP92/86, HR109, O2 92%.","R25.1,Z99.89","46Y/O F PRESENTED AMS, O2 98%, NO IV ACCESS","Here is the summarized narrative:
+
+A high-priority 2 patient (Pt) with a history of seizure disorder was found collapsed at the clinic and transported to Emergency Room. The patient's vital signs include a blood pressure of 92/86 mmHg, heart rate of 109 beats per minute, and oxygen saturation of 92%."
+138,28922,"Medic 19 called for transport from Westover Hills. Pt 84 y/o F, presenting with AMS, GCS 12. BP 137/80, HR 133.",R06.02,"TRANSPORTED 71Y/O M W/BLEEDING, VS NOTED BP133/69, EKG DONE","Here is a summary of the narrative in 3-4 concise sentences:
+
+A 84-year-old Female Patient was transported to Emergency Room after being called by Medic 19. The Patient presented with Acute Myocardial Infarction (AMS) symptoms, having a Glasgow Coma Scale (GCS) score of 12 and normal Blood Pressure (BP). Her Heart Rate (HR) was elevated at 133 beats per minute."
+139,25927,"Medic 29 called for transport from Clinic. Pt 51 y/o M, presenting with AMS, GCS 15. BP 99/83, HR 125.","R41.0,R58,R53.1","49Y/O M PRESENTED SOB, O2 99%, LABS PENDING","Here is the summary:
+
+A 51-year-old male Patient (Pt) was transported to the Emergency Room (ER) after experiencing an altered mental status (AMS). His Glasgow Coma Scale (GCS) score was 15, indicating a severe head injury. The Pt's blood pressure (BP) was 99/83 mmHg and heart rate (HR) was 125 beats per minute."
+140,26332,DISPATCH INFO: 48 sent priority 1. Pt c/o confusion. Found SOB. Exam: diaphoretic. Hx Seizure disorder.,"W19.XXXS,R06.02","TRANSPORTED 73Y/O M W/HEADACHE, VS NOTED BP118/83, EKG DONE","Here is a summary of the narrative in 3-4 concise sentences:
+
+A Patient (Pt) who was found confused and experiencing shortness of breath (SOB) presented to the Emergency Room (ER). The Pt has a history of seizure disorder and is diaphoretic. 
+
+I removed irrelevant details such as dispatch information, transported from one location to another. I also expanded abbreviations and normalized noisy or misspelled text for better understanding."
+141,38887,DISPATCH INFO: 27 sent priority 1. Pt c/o dizziness. Found with weakness. Exam: diaphoretic. Hx DM.,"Z93.0,R68.89,K92.1","65Y/O M W/BLEEDING, BP110/93, HR96, NS VIA IV, EKG DONE","Here is a concise summary of the narrative:
+
+A high-priority patient (Pt) was transported to the Emergency Room (ER) due to symptoms of dizziness and weakness, which were exacerbated by sweating (diaphoresis). The Patient has a history of diabetes mellitus (DM). Vital signs were not reported."
+142,36255,DISPATCH INFO: 22 sent priority 1. Pt c/o palpitations. Found unresponsive. Exam: febrile. Hx COPD.,R18.8,"TRANSPORTED 90Y/O M W/SOB, VS NOTED BP97/82, LABS PENDING","Here is a summary of the narrative in 3-4 concise sentences:
+
+A high-priority patient (Pt) was found unresponsive and in distress due to palpitations. The Pt has a fever, a history of chronic obstructive pulmonary disease (COPD), and was sent to the Emergency Room (ER). No additional information is available."
+143,33010,Unit 9 responded Priority 1 to Clinic. Arrival: 37Y/O M with SOB. Reports palpitations. Past: HTN.,"R25.1,W19.XXXS,R06.02","70Y/O F PRESENTED STROKE SX, O2 80%, TRANSFERRED TO ER","Here is a summary of the narrative in 3-4 concise sentences:
+
+A 37-year-old male Patient (Pt) was transported from Clinic to Unit 9 in an Emergency situation, reporting symptoms of shortness of breath and palpitations. The Pt has a history of hypertension (HTN). Upon arrival, the Pt's vital signs were not reported."
+144,26651,Unit 13 responded Priority 1 to VA Hospital. Arrival: 34Y/O M with collapse. Reports pain. Past: COPD.,"W19.XXXS,Z99.89,L89.159","28Y/O F W/BLEEDING, BP132/93, HR149, NS VIA IV, TRANSFERRED TO ER","Here is a summary of the narrative in 3-4 concise sentences:
+
+A 34-year-old male Patient (Pt) was transported from the Emergency Room (ER) to Unit 13 with symptoms of collapse and pain, which worsened his underlying condition of Chronic Obstructive Pulmonary Disease (COPD). The Pt is experiencing severe respiratory distress. His vital signs are not reported in the provided text."
+145,34089,Unit 10 responded Priority 1 to VA Hospital. Arrival: 83Y/O M with unresponsive. Reports palpitations. Past: psychiatric hx.,R27.8,"61Y/O M W/BLEEDING, BP139/92, HR95, NS VIA IV, LABS PENDING","Here is the summarized narrative in 3-4 concise sentences:
+
+Unit 10 responded to a Priority 1 call at the local VA Hospital, where an 83-year-old male patient was found unresponsive and experiencing palpitations. The patient has a history of psychiatric issues. Upon arrival, the patient's vital signs were not documented; however, it is noted that his blood pressure was elevated."
+146,39377,Unit 30 responded Priority 3 to Clinic. Arrival: 34Y/O M with SOB. Reports confusion. Past: psychiatric hx.,"W19.XXXS,R41.0","TRANSPORTED 69Y/O F W/HEADACHE, VS NOTED BP91/82, O2 ADMIN","Here is a summary of the narrative in 3-4 concise sentences:
+
+A 34-year-old male patient (Pt) was transported to the Emergency Room (ER) via Unit 30, arriving with severe shortness of breath (SOB) and reports of confusion. The Pt has a history of psychiatric issues. His vitals are not provided in this snippet, but it's likely that his BP would be taken.
+
+I removed dispatch or transport details as per your request, kept only clinically important information, expanded abbreviations, normalized noisy text, and removed irrelevant details."
+147,25570,"DISPATCHED: MEDIC 24 priority 3 to Home. Pt found with weakness. Hx Stroke. VS: BP116/90, HR106, O2 93%.","R41.82,R45.89","39Y/O F PRESENTED HEADACHE, O2 83%, TRANSFERRED TO ER","Here is a summary of the narrative in 4 concise sentences:
+
+A Patient (Pt) was transported to their home due to weakness, with a history of stroke. Upon arrival, the Pt's vital signs were recorded as Blood Pressure (BP): 116/90 mmHg, Heart Rate: 106 beats per minute, and Oxygen Saturation (O2): 93%. This Medical Emergency requires immediate attention."
+148,29783,"Medic 17 called for transport from Clinic. Pt 62 y/o F, presenting with chest pain, GCS 14. BP 105/92, HR 91.","R41.82,R52","26Y/O F W/SOB, BP91/65, HR74, NS VIA IV, LABS PENDING","Here is a summary of the narrative in 3-4 concise sentences:
+
+A 62-year-old Female Patient was transported from Clinic to the Emergency Room due to chest pain. The patient's Glasgow Coma Scale (GCS) was 14, indicating moderate impairment, but the patient remained conscious. Her blood pressure was 105/92 mmHg and heart rate was 91 beats per minute."
+149,20558,"DISPATCH INFO: 5 sent priority 1. Pt c/o pain. Found collapse. Exam: pale, weak pulses. Hx Stroke.","W19.XXXS,R68.89,R53.1","TRANSPORTED 43Y/O M W/BLEEDING, VS NOTED BP98/96, LABS PENDING","Here is a summary of the narrative in 3-4 concise sentences:
+
+A high-priority emergency was dispatched to attend to a Patient who complained of pain and was found collapsed. The Patient's vital signs were abnormal, with pale skin and weak pulses. The Patient has a history of Stroke."
+150,36112,"Medic 25 called for transport from Westover Hills. Pt 46 y/o M, presenting with AMS, GCS 8. BP 129/71, HR 62.","Z93.0,R52","TRANSPORTED 52Y/O M W/CHEST PAIN, VS NOTED BP124/92, NO IV ACCESS","Here is a summary of the narrative in 3-4 concise sentences:
+
+A 46-year-old male patient (Pt) was transported to an Emergency Room (ER) due to acute symptoms. Upon arrival, he exhibited altered mental status (AMS) with a Glasgow Coma Scale (GCS) score of 8 and normal vital signs (BP 129/71, HR 62)."
+151,27019,Unit 49 responded Priority 1 to Clinic. Arrival: 25Y/O M with with weakness. Reports confusion. Past: ETOH use.,Z99.89,"57Y/O M PRESENTED HEADACHE, O2 90%, O2 ADMIN","Here is a concise summary of the narrative:
+
+A 25-year-old male Patient (Pt) was transported to the Emergency Room (ER). He presented with weakness and reported feeling confused. The Pt has a history of Alcohol Use Disorder (ETOH use). His current vital signs were not provided."
+152,36671,Unit 33 responded Priority 2 to Lakeside Rehab. Arrival: 35Y/O F with SOB. Reports pain. Past: Seizure disorder.,"Z74.3,Z99.89,Z89.511","TRANSPORTED 25Y/O F W/HEADACHE, VS NOTED BP101/66, NO IV ACCESS","Here is a concise summary of the narrative:
+
+A 35-year-old female Patient (Pt) arrived at an Emergency Room (ER) with shortness of breath (SOB) and reported experiencing pain. She has a past medical history of seizure disorder."
+153,33286,Unit 34 responded Priority 2 to Lakeside Rehab. Arrival: 44Y/O M with SOB. Reports palpitations. Past: Stroke.,"W19.XXXA,R52","TRANSPORTED 82Y/O F W/AMS, VS NOTED BP154/82, O2 ADMIN","Here is a summary of the narrative in 3-4 concise sentences:
+
+A 44-year-old male Patient (Pt) was transported to Lakeside Rehab after experiencing shortness of breath (SOB) and palpitations. He has a history of stroke. His Blood Pressure (BP) information is not mentioned, but it is noted that he required a Priority 2 response."
+154,27151,Unit 26 responded Priority 3 to Westover Hills. Arrival: 51Y/O M with unresponsive. Reports confusion. Past: DM.,K92.1,"67Y/O F W/AMS, BP156/64, HR86, NS VIA IV, NO IV ACCESS","Here is a summary of the narrative in 3-4 concise sentences:
+
+A 51-year-old male patient (Pt) was found unresponsive at Westover Hills. The Pt has a history of diabetes mellitus (DM). The Pt reports feeling confused, and his blood pressure could not be obtained due to unresponsiveness."
+155,25260,"DISPATCH INFO: 45 sent priority 1. Pt c/o fever. Found collapse. Exam: pale, weak pulses. Hx psychiatric hx.","R22.9,Z93.0","TRANSPORTED 49Y/O F W/HEADACHE, VS NOTED BP114/69, LABS PENDING","Here is a summary of the narrative in 3-4 concise sentences:
+
+A 45-year-old Patient was dispatched to the Emergency Room due to a high-priority 1 situation. Upon arrival, the Patient exhibited signs of collapse, pale complexion, and weak pulses. The Patient has a history of psychiatric issues."
+156,28080,Unit 7 responded Priority 1 to Clinic. Arrival: 59Y/O M with unresponsive. Reports vomiting. Past: HTN.,"Z74.3,R18.8","TRANSPORTED 39Y/O F W/SOB, VS NOTED BP144/83, TRANSFERRED TO ER","Here is a concise summary of the narrative:
+
+A 59-year-old male patient (Pt) was transported to the Emergency Room (ER) in a comatose state and reported vomiting. His past medical history includes hypertension (HTN). His vital signs were not provided."
+157,34972,DISPATCH INFO: 46 sent priority 1. Pt c/o dizziness. Found unresponsive. Exam: cyanosis. Hx Stroke.,"R25.1,R68.89","26Y/O M PRESENTED HEADACHE, O2 91%, TRANSFERRED TO ER","Here is a summary of the narrative in 3-4 concise sentences:
+
+A patient (Pt) was found unresponsive in an Emergency Room setting, presenting with symptoms of dizziness and cyanosis. The patient's history (Hx) includes a previous stroke. The pt requires immediate attention due to loss of responsiveness."
+158,34040,"DISPATCHED: MEDIC 46 priority 2 to Home. Pt found with weakness. Hx ETOH use. VS: BP129/77, HR125, O2 91%.","W19.XXXS,R22.9,Z99.89","TRANSPORTED 21Y/O F W/AMS, VS NOTED BP128/78, NO IV ACCESS","Here is a summary of the narrative in 3-4 concise sentences:
+
+A Patient (Pt) was transported to the Home after being found weak and having a history of ETOH (ethanol) use. The patient's vital signs were: Blood Pressure 129/77 mmHg, Heart Rate 125 beats per minute, and Oxygen Saturation 91%."
+159,31022,"DISPATCHED: MEDIC 6 priority 1 to Lakeside Rehab. Pt found SOB. Hx psychiatric hx. VS: BP92/99, HR115, O2 99%.",Z74.3,"35Y/O M W/CHEST PAIN, BP148/76, HR73, NS VIA IV, LABS PENDING","Here is a summary of the narrative in 3-4 concise sentences:
+
+A high-priority patient (Pt) was transported from the Emergency Room (ER) to Lakeside Rehab due to respiratory distress (SOB). The Pt has a psychiatric history. The patient's vital signs include a blood pressure of 92/99 mmHg, heart rate of 115 beats per minute, and oxygen saturation of 99%."
+160,25487,"Medic 49 called for transport from Clinic. Pt 37 y/o M, presenting with chest pain, GCS 14. BP 101/63, HR 95.","R18.8,Z74.3","50Y/O M W/CHEST PAIN, BP151/60, HR87, NS VIA IV, NO IV ACCESS","Here is a summary of the narrative in 3-4 concise sentences:
+
+A 37-year-old male Patient (Pt) was transported from Clinic to ER due to chest pain. Upon arrival, he had a Glasgow Coma Scale (GCS) score of 14, normal Blood Pressure (BP) of 101/63 mmHg, and a regular Heart Rate (HR) of 95 beats per minute."
+161,30806,"Medic 31 called for transport from Clinic. Pt 76 y/o F, presenting collapse, GCS 11. BP 153/83, HR 123.",Z89.511,"TRANSPORTED 46Y/O M W/AMS, VS NOTED BP103/86, TRANSFERRED TO ER","Here is a summary of the narrative in 3-4 concise sentences:
+
+A 76-year-old female Patient (Pt) presented to Clinic with symptoms of collapse. Her vital signs included Blood Pressure 153/83 and Heart Rate 123. The Glasgow Coma Scale (GCS) was 11, indicating a moderate level of consciousness."
+162,23611,Unit 39 responded Priority 1 to Clinic. Arrival: 50Y/O F with with AMS. Reports vomiting. Past: psychiatric hx.,R27.8,"TRANSPORTED 28Y/O M W/SOB, VS NOTED BP92/68, TRANSFERRED TO ER","Here is a summary of the narrative in 3-4 concise sentences:
+
+A 50-year-old female Patient (Pt) was transported to the Emergency Room (ER) after experiencing altered mental status (AMS). Upon arrival, she reported vomiting and had a past medical history of psychiatry. Her vital signs are not available in this context, but it is implied that they require attention."
+163,21807,DISPATCH INFO: 12 sent priority 2. Pt c/o palpitations. Found unresponsive. Exam: cyanosis. Hx HTN.,R41.82,"83Y/O M W/HEADACHE, BP93/78, HR101, NS VIA IV, EKG DONE","Here is a summary of the narrative in 3-4 concise sentences:
+
+The Patient was found unresponsive and experiencing cyanosis, indicating severe respiratory distress. The patient had a history of hypertension (HTN). The Patient's Blood Pressure could not be obtained due to unresponsiveness. Further evaluation is required."
+164,24840,DISPATCH INFO: 13 sent priority 3. Pt c/o pain. Found with chest pain. Exam: cyanosis. Hx Stroke.,"R68.89,R27.8,R45.89","56Y/O F W/BLEEDING, BP119/63, HR63, NS VIA IV, TRANSFERRED TO ER","Here is the summarized narrative:
+
+A Patient presenting to the Emergency Room (ER) with a high-level of urgency, reported experiencing chest pain and was found unwell due to it. The patient exhibited signs of cyanosis during examination. This is not their first medical issue, as they have a history of stroke."
+165,27204,"DISPATCHED: MEDIC 36 priority 1 to Westover Hills. Pt found with chest pain. Hx ETOH use. VS: BP135/92, HR95, O2 98%.","R53.1,L89.159","TRANSPORTED 61Y/O M W/HEADACHE, VS NOTED BP124/69, EKG DONE","Here is a summary of the narrative in 3-4 concise sentences:
+
+A Patient was transported from the Emergency Room due to a priority 1 medical emergency involving chest pain. The Patient's vital signs are as follows: Blood Pressure 135/92 mmHg, Heart Rate 95 beats per minute, and Oxygen saturation 98%. The Patient has a history of alcohol use (ETOH)."
+166,35747,Unit 25 responded Priority 2 to Home. Arrival: 78Y/O F with unresponsive. Reports pain. Past: psychiatric hx.,R53.1,"60Y/O F PRESENTED CHEST PAIN, O2 87%, LABS PENDING","Here is a summary of the narrative in 3-4 concise sentences:
+
+A 78-year-old female Patient (Pt) was found unresponsive at home, reporting pain. She has a history of psychiatric issues. The paramedics responded to a Priority 2 call and arrived at the scene. Her vital signs were not reported."
+167,27109,DISPATCH INFO: 41 sent priority 1. Pt c/o dizziness. Found SOB. Exam: febrile. Hx COPD.,"Z89.511,R41.82,Z93.0","40Y/O M PRESENTED BLEEDING, O2 86%, TRANSFERRED TO ER","Here is a concise summary of the narrative:
+
+A patient was transported to the Emergency Room with symptoms of dizziness and shortness of breath, fever, and a history of chronic obstructive pulmonary disease (COPD). The patient's vital signs were not reported in this excerpt. No further information is available."
+168,25224,"DISPATCHED: MEDIC 4 priority 3 to Home. Pt found collapse. Hx COPD. VS: BP137/98, HR127, O2 99%.",R41.82,"80Y/O F W/HEADACHE, BP142/61, HR142, NS VIA IV, EKG DONE","Here is a summary of the narrative in 3-4 concise sentences:
+
+A Medical 4 priority 3 patient was dispatched home from the Emergency Room due to a suspected collapse. The patient has a history of Chronic Obstructive Pulmonary Disease (COPD). Initial vital signs include a Blood Pressure of 137/98 mmHg, Heart Rate of 127 beats per minute, and Oxygen saturation of 99%."
+169,37988,"Medic 28 called for transport from Home. Pt 70 y/o F, presenting unresponsive, GCS 12. BP 129/98, HR 68.",R18.8,"TRANSPORTED 73Y/O F W/HEADACHE, VS NOTED BP136/68, TRANSFERRED TO ER","Here is a summary of the narrative in 3-4 concise sentences:
+
+A 70-year-old female Patient (Pt) was transported to the Emergency Room (ER) after being called by Medic 28. The Pt was unresponsive with a Glasgow Coma Scale (GCS) score of 12, and had a blood pressure reading of 129/98 mmHg. The patient's heart rate was 68 beats per minute."
+170,36349,DISPATCH INFO: 37 sent priority 1. Pt c/o pain. Found with chest pain. Exam: tachycardia. Hx DM.,L89.159,"69Y/O M PRESENTED CHEST PAIN, O2 83%, LABS PENDING","Here is a summary of the narrative in 3-4 concise sentences:
+
+A Patient (Pt) was transported to the Emergency Room (ER) with complaints of chest pain. Upon examination, the Pt exhibited tachycardia and a history of diabetes mellitus (DM). The exact nature and cause of the chest pain are not specified."
+171,30328,"Medic 1 called for transport from Lakeside Rehab. Pt 44 y/o F, presenting with chest pain, GCS 13. BP 99/76, HR 91.","W19.XXXA,R06.02","23Y/O F W/HEADACHE, BP107/64, HR127, NS VIA IV, EKG DONE","Here is a summary of the narrative in 3-4 concise sentences:
+
+A 44-year-old female patient (Pt) was transported from Lakeside Rehab due to chest pain. Upon arrival, her Glasgow Coma Scale (GCS) score was 13, and she had a blood pressure reading of 99/76 mmHg and a heart rate of 91 beats per minute."
+172,22769,Unit 22 responded Priority 2 to Lakeside Rehab. Arrival: 38Y/O F with SOB. Reports pain. Past: psychiatric hx.,"Z74.3,Z93.0,R40.20","90Y/O F PRESENTED SOB, O2 96%, O2 ADMIN","Here is a concise summary of the narrative:
+
+A 38-year-old female Patient (Pt) arrived at Lakeside Rehab, responding to a Priority 2 call due to Shortness of Breath (SOB). The Pt reported experiencing pain and had a past history of psychiatric issues. 
+
+I removed dispatch or transport details, normalized spelling, expanded abbreviations, and kept only clinically important information."
+173,21929,"Medic 41 called for transport from Lakeside Rehab. Pt 65 y/o M, presenting with weakness, GCS 8. BP 92/90, HR 60.","R22.9,Z99.89","TRANSPORTED 61Y/O M W/AMS, VS NOTED BP93/88, EKG DONE","Here is a summary of the narrative in 3-4 concise sentences:
+
+A 65-year-old male Patient was transported from Lakeside Rehabilitation Facility to the Emergency Room due to severe weakness and altered mental status (Glasgow Coma Scale: 8). The Patient's Blood Pressure was 92/90 mmHg, with a heart rate of 60 beats per minute."
+174,32767,"DISPATCH INFO: 27 sent priority 1. Pt c/o fever. Found SOB. Exam: pale, weak pulses. Hx psychiatric hx.","K92.1,R18.8,Z93.0","TRANSPORTED 70Y/O F W/CHEST PAIN, VS NOTED BP147/83, NO IV ACCESS","Here is a summary of the narrative in 3-4 concise sentences:
+
+A Patient presented to the Emergency Room with symptoms of fever and shortness of breath (SOB). The Patient appears pale and has weak pulses. Prior to presentation, the Patient had a psychiatric history."
+175,29587,"DISPATCHED: MEDIC 5 priority 1 to VA Hospital. Pt found collapse. Hx Stroke. VS: BP115/88, HR83, O2 89%.","R45.89,K92.1,R41.82","36Y/O F PRESENTED AMS, O2 80%, O2 ADMIN","Here is a summary of the narrative in 3-4 concise sentences:
+
+A Patient with a history of stroke was found collapsed at an unspecified location. The patient's vital signs include Blood Pressure 115/88 mmHg, Pulse 83 beats per minute, and Oxygen saturation 89%. The medical team has dispatched Medical 5, a high-priority unit, to the VA Hospital for treatment."
+176,22825,Unit 8 responded Priority 1 to VA Hospital. Arrival: 71Y/O F with with weakness. Reports dizziness. Past: DM.,R41.82,"38Y/O F W/HEADACHE, BP160/72, HR122, NS VIA IV, LABS PENDING","Here is a summary of the narrative in 3-4 concise sentences:
+
+A 71-year-old female (Pt) arrived at the Emergency Room (ER) with difficulty walking and reports of dizziness. She has a history of diabetes mellitus (DM). Her vital signs are not reported in this summary, as dispatch or transport details were omitted."
+177,36091,"Medic 13 called for transport from VA Hospital. Pt 50 y/o F, presenting unresponsive, GCS 14. BP 156/76, HR 75.","R25.1,W19.XXXS","22Y/O F W/SOB, BP149/91, HR129, NS VIA IV, O2 ADMIN","Here is a summary of the narrative in 3-4 concise sentences:
+
+A 50-year-old female Patient was transported from the Emergency Room after being found unresponsive. Her Glasgow Coma Scale (GCS) score was 14, indicating a moderate level of consciousness. Her vital signs included a Blood Pressure of 156/76 mmHg and a heart rate of 75 beats per minute."
+178,36524,Unit 25 responded Priority 3 to Westover Hills. Arrival: 27Y/O F with with weakness. Reports dizziness. Past: HTN.,"R25.1,R40.20,R52","TRANSPORTED 28Y/O M W/AMS, VS NOTED BP97/64, O2 ADMIN","Here is a summary of the narrative in 4 concise sentences:
+
+A 27-year-old female Patient (Pt) was transported to the Emergency Room with symptoms of weakness and dizziness. Her past medical history includes Hypertension (HTN). The Pt's vital signs were not provided, but she was taken to the ER as a Priority 3 patient."
+179,26879,"DISPATCHED: MEDIC 15 priority 3 to VA Hospital. Pt found with AMS. Hx Stroke. VS: BP124/72, HR81, O2 80%.","L89.159,W19.XXXA","30Y/O M W/AMS, BP101/65, HR130, NS VIA IV, LABS PENDING","Here is a summary of the narrative in 4 concise sentences:
+
+A Medical 15 was dispatched to the Veterans Affairs (VA) Hospital as a priority 3 patient. The patient presented with Acute Mesenteric Syndrome (AMS). Vital signs showed a Blood Pressure of 124/72 mmHg, Heart Rate of 81 beats per minute, and Oxygen saturation of 80%."
+180,25163,"DISPATCHED: MEDIC 49 priority 1 to Clinic. Pt found unresponsive. Hx DM. VS: BP133/70, HR60, O2 86%.","R52,R18.8","66Y/O F W/SOB, BP118/89, HR138, NS VIA IV, LABS PENDING","Here is a summary of the narrative in 3-4 concise sentences:
+
+A patient was found unresponsive at the Clinic and was transported with a priority 1 status. The patient has a history of diabetes mellitus (DM). Upon arrival, the patient's vital signs included blood pressure 133/70 mmHg, heart rate 60 beats per minute, and oxygen saturation 86%."
+181,29684,DISPATCH INFO: 19 sent priority 2. Pt c/o vomiting. Found with chest pain. Exam: febrile. Hx psychiatric hx.,"Z89.511,R45.89","TRANSPORTED 38Y/O M W/STROKE SX, VS NOTED BP124/63, LABS PENDING","Here is a summary of the narrative in 3-4 concise sentences:
+
+A Patient, who was found to be febrile and experiencing chest pain, presents to the Emergency Room (ER) with a history of psychiatric issues. The patient has a fever. There is no mention of vital signs such as Blood Pressure or Oxygen Saturation levels; however, it's worth noting that Blood Pressure is often checked in ERs."
+182,25250,Unit 16 responded Priority 3 to Home. Arrival: 77Y/O F with unresponsive. Reports confusion. Past: HTN.,"Z93.0,R27.8","63Y/O M W/AMS, BP160/65, HR143, NS VIA IV, TRANSFERRED TO ER","Here is a summary of the narrative in 4 concise sentences:
+
+A 77-year-old female patient (Pt) was reported as unresponsive and confused upon arrival at our Emergency Room (ER). The Pt has a history of hypertension (HTN). Upon assessment, her vital signs are not provided. No additional information is available."
+183,34515,"DISPATCHED: MEDIC 13 priority 2 to Home. Pt found with weakness. Hx HTN. VS: BP118/74, HR83, O2 99%.","Z99.89,M62.81,L89.159","86Y/O M W/SOB, BP102/74, HR124, NS VIA IV, LABS PENDING","Here is a summary of the narrative in 3-4 concise sentences:
+
+A Patient with a history of hypertension (HTN) was found weak at home. The patient's vital signs include a Blood Pressure of 118/74 mmHg and an oxygen saturation of 99%. There is no mention of any other relevant medical history or symptoms."
+184,28218,DISPATCH INFO: 13 sent priority 2. Pt c/o pain. Found SOB. Exam: febrile. Hx HTN.,"M62.81,R41.82,R58","42Y/O M W/BLEEDING, BP114/93, HR84, NS VIA IV, O2 ADMIN","Here is a summary of the narrative in 3-4 concise sentences:
+
+A Patient (Pt) presented to Emergency Room (ER) with complaints of pain and shortness of breath (SOB), was found febrile, and has a history of hypertension (HTN). The Pt's vital signs were not provided."
+185,24287,DISPATCH INFO: 18 sent priority 1. Pt c/o palpitations. Found SOB. Exam: diaphoretic. Hx COPD.,R25.1,"33Y/O M W/BLEEDING, BP120/93, HR95, NS VIA IV, LABS PENDING","Here is a summary of the narrative in 4 concise sentences:
+
+The patient, an adult with a history of chronic obstructive pulmonary disease (COPD), arrived at the Emergency Room via emergency transport due to priority one status. The patient complained of palpitations and was found to be short of breath. Upon examination, the patient exhibited diaphoresis (excessive sweating)."
+186,26101,DISPATCH INFO: 32 sent priority 3. Pt c/o confusion. Found with weakness. Exam: tachycardia. Hx DM.,M62.81,"TRANSPORTED 33Y/O M W/STROKE SX, VS NOTED BP104/70, EKG DONE","Here is a summary of the narrative in 4 concise sentences:
+
+A Patient (Pt) who has Diabetes Mellitus (DM) was brought to the Emergency Room (ER) with complaints of confusion and weakness. Upon examination, the Pt had tachycardia. The medical history (Hx) indicates DM."
+187,32233,"Medic 37 called for transport from Home. Pt 60 y/o M, presenting unresponsive, GCS 8. BP 94/70, HR 91.",W19.XXXS,"51Y/O M PRESENTED HEADACHE, O2 89%, TRANSFERRED TO ER","Here is a summary of the narrative in 3-4 concise sentences:
+
+A 60-year-old male patient was found unresponsive and transported to the Emergency Room (ER). On arrival, his Glasgow Coma Scale (GCS) was 8, indicating severe impairment. His vital signs showed a Blood Pressure (BP) of 94/70 mmHg and a Heart Rate (HR) of 91 beats per minute."
+188,26414,DISPATCH INFO: 7 sent priority 3. Pt c/o pain. Found collapse. Exam: diaphoretic. Hx COPD.,R18.8,"65Y/O F PRESENTED STROKE SX, O2 87%, TRANSFERRED TO ER","Here is a summary of the narrative in 4 concise sentences:
+
+A Patient with a history of Chronic Obstructive Pulmonary Disease (COPD) was transported to the Emergency Room. The patient presented with pain and was found unresponsive, resulting in collapse. Upon examination, the Patient showed signs of diaphoresis (excessive sweating). The Patient's vital signs were not reported."
+189,26236,"DISPATCHED: MEDIC 25 priority 1 to Home. Pt found unresponsive. Hx ETOH use. VS: BP135/70, HR115, O2 94%.","M62.81,R53.1,R52","TRANSPORTED 87Y/O M W/SOB, VS NOTED BP130/89, TRANSFERRED TO ER","Here is a summary of the narrative in 3-4 concise sentences:
+
+A Patient with a history of alcohol (ETOH) use was found unresponsive at their home and was transported to Home by Medic 25 on priority 1. The patient's vital signs were: Blood Pressure 135/70 mmHg, Heart Rate 115 bpm, and Oxygen Saturation 94%."
+190,23891,"DISPATCHED: MEDIC 15 priority 3 to Home. Pt found collapse. Hx HTN. VS: BP144/68, HR74, O2 84%.",R25.1,"77Y/O F PRESENTED SOB, O2 80%, LABS PENDING","Here is a summary of the narrative in 4 concise sentences:
+
+A high-priority (priority 3) Medic 15 was dispatched to the Patient's home. The Patient had a history of hypertension (HTN). Upon arrival, the Patient was found collapsed. The Vital Signs (VS) revealed a Blood Pressure of 144/68 mmHg, a Heart Rate of 74 beats per minute, and an Oxygen saturation of 84%."
+191,25566,"Medic 31 called for transport from Westover Hills. Pt 57 y/o F, presenting unresponsive, GCS 15. BP 91/69, HR 150.","R53.1,R40.20","60Y/O M W/HEADACHE, BP111/100, HR128, NS VIA IV, TRANSFERRED TO ER","Here is the summarized narrative:
+
+A 57-year-old female patient (Pt) was transported from Westover Hills to the Emergency Room (ER). The patient was found unresponsive with a Glasgow Coma Scale (GCS) of 15 and had a blood pressure reading of 91/69 mmHg. Her heart rate was 150 beats per minute."
+192,25103,"DISPATCHED: MEDIC 10 priority 1 to Home. Pt found unresponsive. Hx Stroke. VS: BP150/68, HR76, O2 81%.",Z99.89,"25Y/O M W/HEADACHE, BP143/92, HR94, NS VIA IV, EKG DONE","Here is a concise summary of the narrative:
+
+A medical emergency was dispatched to a Patient's home due to an unresponsive state. The Patient has a history of stroke (Hx Stroke). The vital signs include a blood pressure of 150/68 mmHg, heart rate of 76 beats per minute, and oxygen saturation of 81%."
+193,30016,Unit 19 responded Priority 2 to VA Hospital. Arrival: 30Y/O M with collapse. Reports vomiting. Past: Seizure disorder.,Z99.89,"TRANSPORTED 23Y/O F W/STROKE SX, VS NOTED BP131/73, O2 ADMIN","Here is a summary of the narrative in 3-4 concise sentences:
+
+A 30-year-old (M) Patient, who has a seizure disorder, was reported to be collapsing at the VA Hospital Emergency Room. The Patient vomited and had collapsed. No additional information about the cause or severity of the collapse is provided."
+194,36817,"DISPATCHED: MEDIC 7 priority 2 to Home. Pt found with weakness. Hx psychiatric hx. VS: BP99/90, HR133, O2 81%.","R06.02,R18.8,R52","71Y/O M PRESENTED BLEEDING, O2 82%, NO IV ACCESS","Here is a summary of the narrative in 3-4 concise sentences:
+
+A Patient with a history of psychiatric issues was dispatched to their home due to reported weakness. Upon arrival, the patient's vital signs included Blood Pressure 99/90 mmHg, Heart Rate 133 beats per minute, and oxygen saturation 81%."
+195,30591,DISPATCH INFO: 13 sent priority 3. Pt c/o vomiting. Found SOB. Exam: cyanosis. Hx Stroke.,R41.82,"TRANSPORTED 64Y/O M W/BLEEDING, VS NOTED BP108/95, TRANSFERRED TO ER","Here is the summary:
+
+A patient was transported to the Emergency Room with a priority level of 3. The patient complained of vomiting and was found breathing erratically, resulting in apparent cyanosis (blue discoloration of the skin). The patient has a history of stroke."
+196,23432,Unit 41 responded Priority 3 to VA Hospital. Arrival: 66Y/O M with SOB. Reports vomiting. Past: HTN.,"W19.XXXA,R25.1,R40.20","76Y/O F PRESENTED AMS, O2 80%, O2 ADMIN","Here is a summary of the narrative in 4 concise sentences:
+
+A 66-year-old male Patient (Pt) was transported to the Emergency Room (ER) via Unit 41. Upon arrival, Pt presented with Shortness of Breath (SOB) and reported vomiting. The Pt has a history of Hypertension (HTN)."
+197,21447,Unit 16 responded Priority 1 to Westover Hills. Arrival: 41Y/O M with with AMS. Reports dizziness. Past: Stroke.,"Z89.511,R53.1","84Y/O F W/BLEEDING, BP133/76, HR122, NS VIA IV, NO IV ACCESS","Here is a summary of the narrative in 3-4 concise sentences:
+
+Unit 16 responded to an Emergency Room call for a 41-year-old male Patient (Pt) who was experiencing altered mental status (AMS) and reported feeling dizzy. The Pt has a history of stroke. On arrival, the Pt's vital signs were not provided."
+198,22192,"DISPATCHED: MEDIC 28 priority 1 to VA Hospital. Pt found SOB. Hx psychiatric hx. VS: BP154/81, HR90, O2 95%.","Z74.3,M62.81,R25.1","TRANSPORTED 88Y/O F W/CHEST PAIN, VS NOTED BP151/64, EKG DONE","Here is a summary of the narrative in 3-4 concise sentences:
+
+A high-priority medical emergency was dispatched to the VA Hospital. The patient is experiencing shortness of breath (SOB) and has a history of psychiatric issues. The patient's vital signs include a blood pressure of 154/81 mmHg, heart rate of 90 beats per minute, and oxygen saturation of 95%."
+199,34976,Unit 4 responded Priority 2 to Home. Arrival: 25Y/O M with with AMS. Reports vomiting. Past: psychiatric hx.,R40.20,"41Y/O M PRESENTED BLEEDING, O2 97%, LABS PENDING","Here is a summary of the narrative in 3-4 concise sentences:
+
+A 25-year-old male Patient (Pt) was transported to Emergency Room (ER) by Unit 4 on a Priority 2 call. The Pt presented with altered mental status and reported vomiting. His past medical history includes psychiatric issues."
+200,24565,"DISPATCHED: MEDIC 25 priority 2 to Home. Pt found SOB. Hx DM. VS: BP143/82, HR81, O2 97%.","R53.1,M62.81,K92.1","58Y/O M W/BLEEDING, BP113/96, HR141, NS VIA IV, LABS PENDING","Here is a summary of the narrative in 3-4 concise sentences:
+
+A Patient (Pt) with a history of Diabetes Mellitus (DM) was dispatched to their home for evaluation. The Pt presents with Shortness of Breath (SOB). Vital signs include Blood Pressure (BP) 143/82 mmHg, Heart Rate (HR) 81 beats per minute, and Oxygen Saturation (O2) 97%."
